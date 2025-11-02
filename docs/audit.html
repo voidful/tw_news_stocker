@@ -1,0 +1,72 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>審核：貢獻瀑布圖與來源×子句熱力</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2.0.1/dist/chartjs-chart-matrix.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-waterfall@4.4.0/dist/chartjs-chart-waterfall.min.js"></script>
+</head><body><main class="container">
+<h1>審核工具</h1>
+<p><a href="./">← 返回首頁</a></p>
+<p>使用 query 參數 <code>?code=2330</code> 指定個股。</p>
+<article>
+  <h3>貢獻瀑布圖（近 14 日）</h3>
+  <canvas id="waterfall"></canvas>
+</article>
+<article>
+  <h3>來源 × 子句類型 熱力表（∑ final）</h3>
+  <label><input type="checkbox" id="maskTrust" checked/> 可信度遮罩</label>
+  <label>極性<select id="polSel"><option value="both">合併</option><option value="pos">正</option><option value="neg">負</option></select></label>
+  <canvas id="heatSC"></canvas>
+</article>
+<script>
+const params = new URLSearchParams(location.search);
+const code = params.get("code") || "2330";
+
+async function loadData(){
+  const data = await fetch("./data/news_compact.json").then(r=>r.json());
+  const now = new Date(); const ms14 = 14*24*3600*1000;
+  const items = data.filter(x=> (x.codes||[]).includes(code) && (now - new Date(x.ts) <= ms14));
+  // build per-article contribution (sum of final over this code)
+  const rows = items.map(n=>{
+    const contrib = (n.detail||[]).filter(d=> (d.codes||[]).includes(code)).reduce((s,d)=> s + (+d.final||0), 0);
+    const host = (new URL(n.link||"", location.href)).host || "unknown";
+    const ts = n.ts; const title = n.title;
+    return {ts, title, host, contrib};
+  }).sort((a,b)=>Math.abs(b.contrib)-Math.abs(a.contrib)).slice(0,30);
+  // Waterfall-like bar (sorted by sign & magnitude)
+  const labels = rows.map(r=>r.title.slice(0,30)+"…");
+  const vals = rows.map(r=>r.contrib);
+  new Chart(document.getElementById("waterfall"), {type:"waterfall", data:{labels, datasets:[{label:"貢獻", data: vals}]} });
+
+  // Source x clause-type heat matrix
+  const agg = {};
+  items.forEach(n=>{
+    const host = (new URL(n.link||"", location.href)).host || "unknown";
+    (n.detail||[]).filter(d=> (d.codes||[]).includes(code)).forEach(d=>{
+      const c = d.ctype || "unknown";
+      agg[host] = agg[host] || {}; agg[host][c] = (agg[host][c]||0) + (+d.final||0);
+    });
+  });
+  const hosts = Object.keys(agg);
+  const ctypes = [...new Set([].concat(...hosts.map(h=>Object.keys(agg[h]))))];
+  const cells = [];
+  hosts.forEach((h, i)=>{
+    ctypes.forEach((c, j)=>{
+      const v = +((agg[h]||{})[c]||0);
+      cells.push({x:j, y:i, v: v, width:22, height:22});
+    });
+  });
+  const maxv = Math.max(...cells.map(x=>x.v)), minv = Math.min(...cells.map(x=>x.v));
+  new Chart(document.getElementById("heatSC"), {
+    type: 'matrix',
+    data: {datasets: [{label:"sum(final)", data: cells, backgroundColor: ctx=>{
+      const v=ctx.raw.v; const t = (v-minv)/(maxv-minv+1e-9); const r = Math.floor(255*(1-t)), g = Math.floor(255*t);
+      return `rgba(${r},${g},120,0.8)`;}}]},
+    options: {scales:{x:{ticks:{callback:(v)=>ctypes[v]}}, y:{ticks:{callback:(v)=>hosts[v]}}}, plugins:{legend:{display:false}}}
+  });
+}
+loadData();
+</script>
+</main></body></html>

@@ -1,0 +1,22 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>來源權重歷史</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head><body><main class="container">
+<h1>來源權重歷史</h1>
+<p><a href="./">← 返回首頁</a></p>
+<canvas id="wchart"></canvas>
+<pre id="raw" class="code"></pre>
+</main>
+<script>
+async function load(){
+  const res = await fetch("./data/source_weights_history.json").then(r=>r.json()).catch(()=>[]);
+  const hosts = [...new Set(res.flatMap(x=>Object.keys(x.weights||{})))].slice(0,8);
+  const labels = res.map(x=>x.ts);
+  const ds = hosts.map(h=>({label:h, data: res.map(x=> (x.weights||{})[h]||null)}));
+  new Chart(document.getElementById("wchart"), {type:"line", data:{labels,datasets:ds}});
+  document.getElementById("raw").textContent = JSON.stringify(res, null, 2);
+}
+load();
+</script></body></html>

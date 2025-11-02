@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>台股新聞情緒儀表板</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  <style>
+    .container{max-width:1200px;margin:auto}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+    table td, table th{white-space:nowrap}
+    .muted{opacity:.7}
+    .badge{padding:.2rem .5rem;border-radius:.5rem;background:#eee;margin-left:.25rem}
+    .code{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>台股新聞情緒儀表板 <span class="badge" id="ts"></span></h1>
+    <p class="muted">每小時自動更新。來源權重、半衰期、回測皆來自本 repo 的自動流程。</p>
+
+    <p><a href="weights.html">來源權重歷史</a> · <a href="heatmap.html">半衰期 CV</a> · <a href="heatmap2.html">穩健性矩陣</a> · <a href="company.html?code=2330">個股頁示例 (2330)</a></p>
+    <section>
+      <h2>排行榜</h2><p><a href="sensitivity.html">穩健性矩陣 / 熱力圖</a></p>
+      <select id="window">
+        <option value="1">1 天</option>
+        <option value="3">3 天</option>
+        <option value="5">5 天</option>
+        <option value="10">10 天</option>
+        <option value="30" selected>30 天</option>
+        <option value="60">60 天</option>
+      </select>
+      <div id="table-wrap"></div>
+    </section>
+
+    <section class="grid">
+      <article>
+        <h3>Top-N 回測 NAV</h3>
+        <canvas id="navChart"></canvas>
+      </article>
+      <article>
+        <h3>增強回測 NAV</h3>
+        <canvas id="navChart2"></canvas>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article>
+        <h3>最佳化摘要</h3>
+        <pre id="optReport" class="code"></pre>
+      </article>
+      <article>
+        <h3>風控與聚合設定</h3>
+        <pre id="cfg" class="code"></pre>
+      </article>
+    </section>
+  </main>
+
+  <script>
+    const dataRoot = "./data"; // docs/data
+    document.getElementById("ts").textContent = new Date().toLocaleString();
+
+    async function fetchText(path){
+      const res = await fetch(path);
+      if(!res.ok) throw new Error("fetch failed");
+      return await res.text();
+    }
+    async function fetchJSON(path){
+      const t = await fetchText(path);
+      return JSON.parse(t);
+    }
+
+    async function loadTable(days){
+      const csv = await fetchText(`${dataRoot}/leaderboard_${days}d.csv`);
+      const parsed = Papa.parse(csv, {header:true}).data.slice(0, 50);
+      let html = "<table><thead><tr>";
+      const cols = ["rank","code","name","score","hits"];
+      html += cols.map(c=>`<th>${c}</th>`).join("") + "</tr></thead><tbody>";
+      for(const r of parsed){
+        html += `<tr><td>${r.rank}</td><td>${r.code}</td><td>${r.name}</td><td>${(+r.score).toFixed(2)}</td><td>${r.hits}</td></tr>`;
+      }
+      html += "</tbody></table>";
+      document.getElementById("table-wrap").innerHTML = html;
+    }
+
+    async function loadNAV(){
+      try{
+        const txt = await fetchText(`${dataRoot}/backtest_5.csv`);
+        const parsed = Papa.parse(txt, {header:true}).data;
+        const labels = parsed.map(r=>r.date);
+        const nav = parsed.map(r=>+r.nav);
+        new Chart(document.getElementById("navChart"), {
+          type: 'line',
+          data: { labels, datasets: [{label:"Top-5", data: nav}] },
+          options: { interaction:{mode:'index'}, scales:{y:{beginAtZero:false}} }
+        });
+      }catch(e){}
+      try{
+        const txt2 = await fetchText(`${dataRoot}/backtest_enhanced.csv`);
+        const parsed2 = Papa.parse(txt2, {header:true}).data;
+        const labels2 = parsed2.map(r=>r.date);
+        const nav2 = parsed2.map(r=>+r.nav);
+        new Chart(document.getElementById("navChart2"), {
+          type: 'line',
+          data: { labels: labels2, datasets: [{label:"Enhanced", data: nav2}] },
+          options: { interaction:{mode:'index'}, scales:{y:{beginAtZero:false}} }
+        });
+      }catch(e){}
+    }
+
+    async function loadReports(){
+      try{
+        const opt = await fetchText(`${dataRoot}/optimize_report.md`);
+        document.getElementById("optReport").textContent = opt;
+      }catch(e){}
+      try{
+        const agg = await fetchJSON(`${dataRoot}/aggregation.json`);
+        const src = await fetchJSON(`${dataRoot}/source_weights.json`);
+        const risk = await fetchJSON(`${dataRoot}/risk.json`);
+        document.getElementById("cfg").textContent = JSON.stringify({aggregation:agg, source_weights:src, risk}, null, 2);
+      }catch(e){}
+    }
+
+    document.getElementById("window").addEventListener("change", e=> loadTable(e.target.value));
+    loadTable(30);
+    loadNAV();
+    loadReports();
+  </script>
+</body>
+</html>

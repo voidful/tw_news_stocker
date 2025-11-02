@@ -1,0 +1,26 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>半衰期 CV 結果</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head><body><main class="container">
+<h1>半衰期 K-fold CV</h1>
+<p><a href="./">← 返回首頁</a></p>
+<canvas id="hchart"></canvas>
+</main>
+<script>
+async function load(){
+  try{
+    const csv = await fetch("./data/half_life_cv.csv").then(r=>r.text());
+    const rows = Papa.parse(csv, {header:true}).data;
+    const labels = rows.map(r=>r.half_life);
+    const vals = rows.map(r=>+r.cv_sharpe);
+    new Chart(document.getElementById("hchart"), {
+      type:"bar", data:{labels, datasets:[{label:"CV Sharpe", data: vals}]},
+      options:{scales:{y:{beginAtZero:false}}}
+    });
+  }catch(e){}
+}
+load();
+</script></body></html>

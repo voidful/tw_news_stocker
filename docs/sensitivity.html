@@ -1,0 +1,93 @@
+<!doctype html><html lang="zh-Hant"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>穩健性矩陣 / 熱力圖</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@2.0.1/dist/chartjs-chart-matrix.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>.matrix{height:520px}.controls{display:flex;gap:1rem;align-items:center;flex-wrap:wrap}</style>
+</head><body><main class="container">
+<h1>穩健性矩陣 / 熱力圖</h1>
+<p><a href="./">← 返回首頁</a></p>
+<div class="controls">
+  <label>值軸：
+    <select id="metric">
+      <option value="sharpe">Sharpe</option>
+      <option value="total_ret">累積報酬</option>
+      <option value="maxdd">最大回撤</option>
+      <option value="vol">年化波動</option>
+      <option value="win">勝率</option>
+    </select>
+  </label>
+  <label>X：<select id="x">
+    <option>half_life</option><option>topN</option><option>min_score</option>
+    <option>vol_target</option><option>rebalance</option><option>kelly_coef</option>
+  </select></label>
+  <label>Y：<select id="y">
+    <option>topN</option><option>half_life</option><option>min_score</option>
+    <option>vol_target</option><option>rebalance</option><option>kelly_coef</option>
+  </select></label>
+  <small class="muted">其餘維度取平均；可切換指標評估穩健性。</small>
+</div>
+<canvas id="heat" class="matrix"></canvas>
+<pre id="summary" class="code"></pre>
+<script>
+async function load(){
+  const csv = await fetch("./data/sensitivity_grid.csv").then(r=>r.text());
+  const rows = Papa.parse(csv,{header:true,dynamicTyping:true}).data.filter(r=>r.half_life!==undefined);
+  const metricSel = document.getElementById("metric");
+  const xSel = document.getElementById("x");
+  const ySel = document.getElementById("y");
+  const ctx = document.getElementById("heat");
+  function render(){
+    const metric = metricSel.value, x=xSel.value, y=ySel.value;
+    const key = (r)=>`${r[x]}__${r[y]}`;
+    const map = new Map();
+    for(const r of rows){
+      const k = key(r);
+      if(!map.has(k)) map.set(k,[]);
+      map.get(k).push(+r[metric]);
+    }
+    const xs = [...new Set(rows.map(r=>r[x]))].sort((a,b)=>a-b);
+    const ys = [...new Set(rows.map(r=>r[y]))].sort((a,b)=>a-b);
+    const data = [];
+    let best = {v:-Infinity, x:null, y:null};
+    for(let j=0;j<ys.length;j++){
+      for(let i=0;i<xs.length;i++){
+        const k = `${xs[i]}__${ys[j]}`;
+        const arr = map.get(k)||[];
+        const v = arr.length? arr.reduce((a,b)=>a+b,0)/arr.length : NaN;
+        data.push({x:i, y:j, v});
+        if(!isNaN(v) && v>best.v){ best={v, x:xs[i], y:ys[j]}; }
+      }
+    }
+    const chart = Chart.getChart(ctx); if(chart) chart.destroy();
+    new Chart(ctx, {
+      type: 'matrix',
+      data: { datasets: [{
+        label: metric,
+        data,
+        width: ({chart}) => (chart.chartArea.width / xs.length) - 2,
+        height: ({chart}) => (chart.chartArea.height / ys.length) - 2,
+        backgroundColor: (ctx)=> {
+          const v = ctx.raw.v; if(isNaN(v)) return 'rgba(200,200,200,0.3)';
+          const t = Math.max(-2, Math.min(2, v)); // clip
+          const g = Math.floor(200*(t+2)/4);
+          const r = 255-g, b = 255-g;
+          return `rgba(${r},${g},${b},0.8)`;
+        },
+        borderWidth: 1,
+      }]},
+      options:{plugins:{legend:{display:false},
+        tooltip:{callbacks:{title:(it)=>`${x}=${xs[it[0].raw.x]} , ${y}=${ys[it[0].raw.y]}`,label:(it)=>`${metric}: ${it.raw.v?.toFixed(3)}`}}},
+        scales:{x:{ticks:{callback:(v)=>xs[v]}}, y:{ticks:{callback:(v)=>ys[v]}}}
+      }
+    );
+    document.getElementById("summary").textContent = `最佳點：${metric}=${best.v.toFixed(3)} @ ${x}=${best.x}, ${y}=${best.y}\n(其餘維度取平均)`;
+  }
+  metricSel.onchange = render; xSel.onchange = render; ySel.onchange = render;
+  render();
+}
+load();
+</script>
+</main></body></html>
