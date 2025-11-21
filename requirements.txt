@@ -5,3 +5,5 @@ python-dateutil==2.9.0.post0
 tzdata==2025.1
 beautifulsoup4==4.12.3
 flashtext==2.7
+transformers>=4.30.0
+torch>=2.0.0

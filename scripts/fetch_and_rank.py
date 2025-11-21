@@ -2,9 +2,9 @@
 # Fetch RSS news, score per-sentence sentiment toward TW stocks with lightweight heuristics,
 # and persist ALL news (even if no company matched) for downstream analysis / Pages.
 import re
-import os
+
 import json
-import math
+
 import time
 import hashlib
 from pathlib import Path
@@ -15,16 +15,28 @@ import feedparser
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
+# ML-based sentiment analysis
+try:
+    from transformers import AutoTokenizer, AutoModelForSequenceClassification
+    import torch
+    ML_AVAILABLE = True
+except ImportError:
+    ML_AVAILABLE = False
+    print("Warning: transformers/torch not available, using keyword-based sentiment")
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 CONF_DIR = ROOT / "config"
 DOCS_DIR = ROOT / "docs"
 DOCS_DATA = DOCS_DIR / "data"
+NEWS_DIR = DOCS_DATA / "news"  # New directory for daily news
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 DOCS_DATA.mkdir(parents=True, exist_ok=True)
+NEWS_DIR.mkdir(parents=True, exist_ok=True)
 
 NEWS_LOG = DATA_DIR / "news_log.jsonl"
-NEWS_JSON = DOCS_DATA / "news_compact.json"
+# NEWS_JSON = DOCS_DATA / "news_compact.json" # Deprecated
+NEWS_INDEX = DOCS_DATA / "news_index.json" # New index file
 DAILY_JSON = DOCS_DATA / "daily_sentiment.json"
 
 # ------------------------------
@@ -48,6 +60,10 @@ CONDITIONAL_RIGHT = ["否則", "不然"]
 # 情緒詞（可用 config/sentiment_lexicon.json 覆蓋）
 DEFAULT_POS = ["成長", "看好", "擴產", "利多", "創新高", "增持", "上修", "優於預期", "超預期", "獲利", "授權", "合作", "擴單", "中標", "得標", "突破", "上調", "加碼", "拓展", "獲選"]
 DEFAULT_NEG = ["利空", "衰退", "裁員", "砍單", "下修", "降評", "虧損", "違約", "延遲", "停工", "罰款", "減產", "砍價", "減碼", "疲弱", "下調", "衝擊", "風險"]
+
+# ML model global cache
+_sentiment_model = None
+_sentiment_tokenizer = None
 
 # ------------------------------
 # Utilities
@@ -111,12 +127,14 @@ def weight_for_host(sw: dict, host: str, val: float) -> float:
 def load_company_alias():
     """
     讀取公司別名 → 代碼 的映射：
-      1) config/company_alias.json 或 data/company_alias.json
-      2) data/companies.csv（欄位：code,name,aliases 逗號/空白分隔）
+      1) config/company_alias.json 或 data/company_alias.json (dict format)
+      2) data/companies.json (array format: [{code, name, aliases}])
+      3) data/companies.csv（欄位：code,name,aliases 逗號/空白分隔）
     皆不存在時回傳空。
     """
     alias_to_codes = defaultdict(set)
 
+    # Try dict format company_alias.json
     for p in [CONF_DIR / "company_alias.json", DATA_DIR / "company_alias.json"]:
         obj = load_json_if_exists(p, None)
         if isinstance(obj, dict):
@@ -126,6 +144,33 @@ def load_company_alias():
                     alias_to_codes[alias_n].add(str(c))
             return alias_to_codes
 
+    # Try array format companies.json
+    companies_json = DATA_DIR / "companies.json"
+    if companies_json.exists():
+        try:
+            obj = load_json_if_exists(companies_json, None)
+            if isinstance(obj, list):
+                for item in obj:
+                    if isinstance(item, dict):
+                        code = str(item.get("code", "")).strip()
+                        name = str(item.get("name", "")).strip()
+                        aliases = item.get("aliases", [])
+                        
+                        if code:
+                            # Add company name as an alias
+                            if name:
+                                alias_to_codes[normalize_for_match(name)].add(code)
+                            
+                            # Add all aliases
+                            if isinstance(aliases, list):
+                                for alias in aliases:
+                                    if alias:
+                                        alias_to_codes[normalize_for_match(str(alias))].add(code)
+                return alias_to_codes
+        except Exception as e:
+            print(f"Error loading companies.json: {e}")
+
+    # Try CSV format
     csv_p = DATA_DIR / "companies.csv"
     if csv_p.exists():
         try:
@@ -150,6 +195,64 @@ def load_sentiment_lexicon():
         neg = list({normalize_for_match(w) for w in obj.get("neg", []) if w})
         return pos or DEFAULT_POS, neg or DEFAULT_NEG
     return DEFAULT_POS, DEFAULT_NEG
+
+def load_sentiment_model():
+    """
+    Load the ML-based sentiment model (voidful/albert_chinese_small_sentiment).
+    Returns (tokenizer, model) or (None, None) if not available.
+    Uses global cache to avoid reloading.
+    """
+    global _sentiment_model, _sentiment_tokenizer
+    
+    if not ML_AVAILABLE:
+        return None, None
+    
+    if _sentiment_model is not None and _sentiment_tokenizer is not None:
+        return _sentiment_tokenizer, _sentiment_model
+    
+    try:
+        model_name = "voidful/albert_chinese_small_sentiment"
+        print(f"Loading sentiment model: {model_name}...")
+        # Use BertTokenizer as recommended for this specific model
+        from transformers import BertTokenizer
+        _sentiment_tokenizer = BertTokenizer.from_pretrained(model_name)
+        _sentiment_model = AutoModelForSequenceClassification.from_pretrained(model_name)
+        _sentiment_model.eval()  # Set to evaluation mode
+        print("Sentiment model loaded successfully!")
+        return _sentiment_tokenizer, _sentiment_model
+    except Exception as e:
+        print(f"Error loading sentiment model: {e}")
+        return None, None
+
+def predict_sentiment_ml(text: str, tokenizer, model):
+    """
+    Use ML model to predict sentiment of text.
+    Returns a score between -1.0 (negative) and +1.0 (positive).
+    """
+    if tokenizer is None or model is None:
+        return 0.0
+    
+    try:
+        # Tokenize and prepare input
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512, padding=True)
+        
+        # Get prediction
+        with torch.no_grad():
+            outputs = model(**inputs)
+            logits = outputs.logits
+            probs = torch.softmax(logits, dim=-1)
+        
+        # Assuming binary classification: [negative, positive]
+        # Map to score: -1.0 (negative) to +1.0 (positive)
+        neg_prob = probs[0][0].item()
+        pos_prob = probs[0][1].item()
+        
+        # Convert to score: positive - negative
+        score = pos_prob - neg_prob
+        return score
+    except Exception as e:
+        print(f"Error in sentiment prediction: {e}")
+        return 0.0
 
 # ------------------------------
 # Clause analysis & scoring
@@ -268,6 +371,68 @@ def score_sentence(sent: str, comp_kp: dict, alias_to_codes: dict, senti_kp: dic
 
     return dict(out_sc), details
 
+def score_sentence_ml(sent: str, comp_kp: dict, alias_to_codes: dict, tokenizer, model, src_w: float = 1.0):
+    """
+    ML-based sentence scoring:
+      - Find company name mentions in the sentence
+      - Extract context window around each mention
+      - Use ML model to predict sentiment of the context
+      - Apply source weight
+    Returns:
+      sc: {code: score}, det: [details per sentence]
+    """
+    sent_n = normalize_for_match(sent)
+    
+    out_sc = defaultdict(float)
+    details = []
+    
+    if tokenizer is None or model is None:
+        # Fallback to keyword-based if model not available
+        return score_sentence(sent, comp_kp, alias_to_codes, {"pos": DEFAULT_POS, "neg": DEFAULT_NEG}, src_w)
+    
+    # Find all company mentions in the sentence
+    alias_hits = []  # (alias, start_idx, codes)
+    for alias, codes in alias_to_codes.items():
+        if not alias or alias not in sent_n:
+            continue
+        for pos in find_all_positions(sent_n, alias):
+            alias_hits.append((alias, pos, list(codes)))
+    
+    if not alias_hits:
+        return dict(out_sc), details
+    
+    # For each company mention, extract context and predict sentiment
+    for alias, pos_a, codes in alias_hits:
+        # Extract context window around the company mention (±100 chars)
+        context_start = max(0, pos_a - 100)
+        context_end = min(len(sent_n), pos_a + len(alias) + 100)
+        context = sent_n[context_start:context_end]
+        
+        # Get ML sentiment prediction
+        ml_score = predict_sentiment_ml(context, tokenizer, model)
+        
+        # Apply source weight and scale to match existing score range
+        # ML score is [-1, 1], scale to match MAX_PER_ARTICLE_ABS
+        final_score = ml_score * src_w * 3.0  # Scale factor to match keyword-based scores
+        
+        if abs(final_score) < 0.01:  # Skip negligible scores
+            continue
+        
+        # Distribute to all matching company codes
+        for code in codes:
+            out_sc[code] += final_score
+            details.append({
+                "alias": alias,
+                "codes": [code],
+                "method": "ml",
+                "ml_score": round(ml_score, 4),
+                "src_w": src_w,
+                "final": round(final_score, 4)
+            })
+    
+    return dict(out_sc), details
+
+
 # ------------------------------
 # Main
 # ------------------------------
@@ -286,10 +451,30 @@ def main():
 
     # 3) Source weights
     src_weights = load_source_weights()
+    
+    # 4) Load ML sentiment model
+    print("Initializing sentiment analysis model...")
+    tokenizer, model = load_sentiment_model()
+    if tokenizer and model:
+        print("Using ML-based sentiment analysis")
+    else:
+        print("Using keyword-based sentiment analysis (fallback)")
 
-    # 4) Load existing records to avoid duplicates
-    news_records = load_json_if_exists(NEWS_JSON, [])
-    seen_ids = set([n.get("id") for n in news_records if isinstance(n, dict) and n.get("id")])
+    # 5) Load existing records to avoid duplicates
+    # Strategy: Read all daily files to build seen_ids.
+    # Also read legacy news_compact.json if it exists and migrate it.
+    all_news = []
+    seen_ids = set()
+
+    # Load from daily files
+    for f in NEWS_DIR.glob("*.json"):
+        records = load_json_if_exists(f, [])
+        for r in records:
+            if r.get("id") and r.get("id") not in seen_ids:
+                seen_ids.add(r["id"])
+                all_news.append(r)
+
+
 
     added = 0
     with NEWS_LOG.open("a", encoding="utf-8") as logf:
@@ -337,7 +522,11 @@ def main():
                 art_neg = 0.0
 
                 for sent in sent_list:
-                    sc, det = score_sentence(sent, comp_kp, alias_to_codes, senti_kp, src_w=src_w)
+                    # Use ML-based scoring if model is available, otherwise fallback to keyword-based
+                    if tokenizer and model:
+                        sc, det = score_sentence_ml(sent, comp_kp, alias_to_codes, tokenizer, model, src_w=src_w)
+                    else:
+                        sc, det = score_sentence(sent, comp_kp, alias_to_codes, senti_kp, src_w=src_w)
                     # 聚合公司分數
                     for k, v in sc.items():
                         per_company[k] = per_company.get(k, 0.0) + float(v)
@@ -380,7 +569,7 @@ def main():
                 }
 
                 # 一律保存
-                news_records.append(rec)
+                all_news.append(rec)
                 logf.write(json.dumps({
                     "ts": rec["ts"],
                     "title": title,
@@ -392,15 +581,38 @@ def main():
                 added += 1
                 seen_ids.add(nid)
 
-    # 5) Persist all news
-    # 依時間排序，避免重覆（保守做法）
-    news_records = [n for n in news_records if isinstance(n, dict) and n.get("id")]
-    news_records.sort(key=lambda x: x.get("ts", ""))
-    write_json(NEWS_JSON, news_records)
+    # 5) Persist news split by day
+    # Group by date
+    news_by_date = defaultdict(list)
+    for n in all_news:
+        if not isinstance(n, dict) or not n.get("ts"):
+            continue
+        try:
+            # Parse TS to get YYYY-MM-DD
+            # Handle both Z and +00:00
+            ts_str = n["ts"].replace("Z", "+00:00")
+            dt = datetime.fromisoformat(ts_str)
+            date_str = dt.date().isoformat()
+            news_by_date[date_str].append(n)
+        except Exception:
+            continue
+
+    # Write daily files
+    available_dates = []
+    for date_str, items in news_by_date.items():
+        # Sort items by TS within the day
+        items.sort(key=lambda x: x.get("ts", ""))
+        p = NEWS_DIR / f"{date_str}.json"
+        write_json(p, items)
+        available_dates.append(date_str)
+    
+    # Write index file
+    available_dates.sort(reverse=True) # Newest first
+    write_json(NEWS_INDEX, available_dates)
 
     # 6) Daily sentiment aggregation for sparkline
     agg = defaultdict(lambda: defaultdict(float))  # agg[code][YYYY-MM-DD] = sum_score
-    for n in news_records:
+    for n in all_news:
         ts = n.get("ts")
         try:
             day = datetime.fromisoformat(ts.replace("Z", "+00:00")).date().isoformat()
@@ -416,7 +628,7 @@ def main():
             daily_rows.append({"code": c, "date": day, "score": round(val, 3)})
     write_json(DAILY_JSON, daily_rows)
 
-    print(f"[fetch_and_rank] added={added}, total_records={len(news_records)}")
+    print(f"[fetch_and_rank] added={added}, total_records={len(all_news)}")
 
 
 if __name__ == "__main__":

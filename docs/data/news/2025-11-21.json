@@ -1,0 +1,500 @@
+[
+  {
+    "id": "bf2ea59cf7666a9092c38bb3564c50ca21ad3de1",
+    "ts": "2025-11-21T00:28:00+00:00",
+    "title": "台股狂瀉近千點失守季線 國安基金操盤手說話了 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOV1pVVEt3V1hSYWFhMkJqRGRBYXNOdVZUazdVT3U3d0lkRUdPY1lvWW1iY0FoX0FPd1JtUUFXUTRUdmVZU0NZRXhVV3BfVDdlZVYzZlQxcHhYUjdic1YzazBHRDFxZVJLeVBFaXFmVnVyMjZlZmk3U01XQ0pKUTh5cDNTQW9xMFEzYkJ0NEtFQnFnS1VXaVJESDgxeWFlWTdTUzZlQ1RmMTF3MWE3UERQd0FCRmszTFNJZE4wdDdvVEU4Q21xLXR5WWZ0RUpjNDZmUDhZZ1pIbnh0bHFvdlVOcVozZjZyOVhMVWtsNFJUSHVYYWJjR0VpVGExSlNrdEk5SHBVV19pZlRQc21Fa2hvaUpNa2E4bzBobkRSX0NLbFotTzRydkZzaXRaMkRsVWlsck52dXVKdkhrMHRtbjlRMnRQbXZzbHI4U3pnTXI1NHdGTkZMbkNHUA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.3167255222797394,
+      "1435": -0.3167255222797394,
+      "1341": -0.3167255222797394,
+      "2025": -0.3167255222797394,
+      "1314": -0.3167255222797394,
+      "2368": -0.3167255222797394
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.9002,
+    "sent_score": -1.9002,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1056,
+        "src_w": 1.0,
+        "final": -0.3167
+      }
+    ]
+  },
+  {
+    "id": "661757e9e4604d9f2cdf3012a6d185fc522f3ca0",
+    "ts": "2025-11-21T00:51:48+00:00",
+    "title": "【Follow法人】外資大砍915億元「今年最大」！倒貨台積電3.4萬張、0050破14.5萬張 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOamRCSkcyTklROTJjd1FtVnpzOEtMMzFvbWJ1V1JBOFVoa3pMeEdDU0N4YjJkbWNnNEcwcUVrNkUxalVLWExwMENaZXA4X1drV3ZudW5GOFNzWER1dzc5VjhWWUozbzJPeG9XTTNzTFBodk94LWRCVDIxQU1CcWlBekxLVWRNbDRZZTFBU2ZHYkF4WGZmOXQxem1uTEVNSUY3bm9ZZjI1RGRVT2NEaWYxTm4tN2dzNm5LLXhmNDVOT0lrMHlfeVJ4TWdqenp1WExfSkE1Mkp4bjc5YmlWN1pTYXdiMEdrcWJFN2R0QjMtWVZpZzdPWmROSlpURnNvc0tUdWlnYzZkX1ctMkdQZkdPQTBQcmJoTXRGU0h1cEd0UVN3NkxrZTJnS21lak13ZWY0TjN3eGpTMzFnQXJtSnJHV0U4V3luVm5XX1lSM1hqR1pGbktRdDlocU5lM19RU2ZPSmsxaWNNVzVzTzVFczh5RUNLVDdDdnpRVGx5eEVOVjkwOGJYOERtZFYycXJuUXh3SThVb1RTLXEwSFZyMWZ3anpCaTl5MDlOWU5oX0lwdnFHQ0ItVWY4V1VEQzBKa29UNFBn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e3b37d0b62a161f5d4754d6478abdd5ed55f1bd1",
+    "ts": "2025-11-21T01:08:00+00:00",
+    "title": "輝達內部會議大吐苦水！ 黃仁勳：怎麼做都不對- 國際 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNTRTMkhIRkZhbWhOcEhMWnc4OWlqZkhYUTJ2MTdtaFNGQTNRcURPN0h3QUlqXzFUN2NoNXBGaE0zbjExQ0VacEhCX1hTS3RhLWdrd3NWX0lodXRYdDlF?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "1626"
+    ],
+    "per_company": {
+      "1626": -0.2670808732509613
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.2671,
+    "sent_score": -0.2671,
+    "detail": [
+      {
+        "alias": "國際",
+        "codes": [
+          "1626"
+        ],
+        "method": "ml",
+        "ml_score": -0.089,
+        "src_w": 1.0,
+        "final": -0.2671
+      }
+    ]
+  },
+  {
+    "id": "fcbbf143336b690e479376e0be1bfac6bf87fd1a",
+    "ts": "2025-11-21T02:40:00+00:00",
+    "title": "快訊／韭菜大翻臉！台股暴漲暴跌　PCB股富喬爆1255.72萬違約交割 - ETtoday財經雲",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNRFowTmExYUNrUFNnTDlxWU9iaklpZnhjbUtiWlMxT3JmOGxsdi00ZnA4X2N3VEU1ejZ4S3lSUUtRVzlfS2hWcGx6ejBSNzA3dlHSAW5BVV95cUxOWmNOb1pqSXFkS1A4SC05NG1ZS3dZcGNaNDY3MG1MbDJXMkYybWdoZ3lXcnJyY0h6T3VSQmFYajFmNkZhaktucHBPcEJvbEdMZ1ZuV0tzRWkzTmZrMmFtMUlKNUVwb0VOZDJabTJHZw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.374472439289093,
+      "1435": -1.374472439289093,
+      "1341": -1.374472439289093,
+      "2025": -1.374472439289093,
+      "1314": -1.374472439289093,
+      "2368": -1.374472439289093
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 8.2464,
+    "sent_score": -8.2464,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2291,
+        "src_w": 1.0,
+        "final": -0.6872
+      }
+    ]
+  },
+  {
+    "id": "665fd4e1a8bca45a9be8332bce0be712ff9ff4f3",
+    "ts": "2025-11-21T03:22:00+00:00",
+    "title": "麻吉大哥崩盤！黃立成加密幣帳戶遭「完全清算」　慘賠6.5億台幣 - ETtoday財經雲",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQkJNdXdUQlpsOXJUTlRaQ3dtWjBiWGJpaGdBaEYwdDdlY1pSbUo0Sm9OTWZ0Vk1VWjJZb1ZKd2VzMGdoLTRfTldJSHAtcmRlaEHSAW5BVV95cUxPU1JXZzVHamxfTmQtbkhBc1BvMmFnUUI5RWszTU1uc2RaSXVnUVN1MERfNmxaTW1UR2VJb2VxeHJHTmNLNmhQblRIbG0tUFVvUUdNYi1qalBIUHNQeWkxWHFSSHk3OWQ5Q1p5bVBsUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "4b1488c10b72f5494c3643134e609aecb7cdad15",
+    "ts": "2025-11-21T03:40:07+00:00",
+    "title": "全球股市「大跳水」 A股重挫近5100股下跌 兩大利空衝擊市場 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWm5QMVFDX2E2RlpKWkI2WVVSVTU5ZkZJYlNaVkd1RTRTMHpDc2RONjE0R09hSTlvMjJMMzJ5TC13ZTV6ZFQtNHhZSHJsQ2s?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -2.0996152460575104,
+      "1435": -2.0996152460575104,
+      "1341": -2.0996152460575104,
+      "2025": -2.0996152460575104,
+      "1314": -2.0996152460575104,
+      "2368": -2.0996152460575104
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 12.5982,
+    "sent_score": -12.5982,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2333,
+        "src_w": 1.0,
+        "final": -0.6999
+      }
+    ]
+  }
+]

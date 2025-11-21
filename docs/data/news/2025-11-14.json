@@ -1,0 +1,5624 @@
+[
+  {
+    "id": "bdab996ff96497ce7709b227ecf444c9e73b0fa5",
+    "ts": "2025-11-14T00:00:00+00:00",
+    "title": "南電、欣興、台燿、金像電...誰是年底主升段飆股？看懂PCB的AI新故事「為何必買它」？ - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TMnM2dUtmTVNOY2RMOEJXMlppYzlxUDlFdUpncm5YU21GUWFKbjU5eXVlQ0JEWDM2T3RkUFFLV3ZONlN4Ukg0SzNZMHYyLWdUYXRpZmw4cW4tQdIBX0FVX3lxTE9GSjVkWk5aMzZjOVFtWUpfN1F1cjU0MDI5WHlySDFyUXBGUk02NTNkZjctTHJ0bDQwTUVBMXQ4bnM4VGtsTnlzVEhTRl84TlN6SHEwaXEtVlB5T29faGNn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.19669175148010254,
+      "1435": -0.19669175148010254,
+      "1341": -0.19669175148010254,
+      "2025": -0.19669175148010254,
+      "1314": -0.19669175148010254,
+      "2368": -0.19669175148010254
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.1802,
+    "sent_score": -1.1802,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0656,
+        "src_w": 1.0,
+        "final": -0.1967
+      }
+    ]
+  },
+  {
+    "id": "fe2051d4e47841dad71f3bf0d5da9ce44875d2c1",
+    "ts": "2025-11-14T00:00:00+00:00",
+    "title": "台積電領跌台股重挫 記憶體倒一片可以進場買？ 分析師給三個字 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WYjZsUGVqLVZvVzFkR1dZdmkySGhvcGNjbkJ2MHB4ZHJEU28zLUNSQ3REYXVsOXBPNVh0Z2hYWmpJV09tN1RhSVp2YnNnbWt0bnlrZGFnQlNNQdIBX0FVX3lxTE53M1djTkw1OVpPdXJNTWpYT0pyLWFPX2N2OUJpUVBlZ3d4YXF6TkxrMjl2Rm1Nd184dWE5TWRjcmJsMW5oR1Q5U1VzOEp5bktQTlJCTkFDeE5Oc3ZzZzBz?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.561705082654953,
+      "1435": -0.561705082654953,
+      "1341": -0.561705082654953,
+      "2025": -0.561705082654953,
+      "1314": -0.561705082654953,
+      "2368": -0.561705082654953
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.3702,
+    "sent_score": -3.3702,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1872,
+        "src_w": 1.0,
+        "final": -0.5617
+      }
+    ]
+  },
+  {
+    "id": "2547967aed86b2bd6dc7ed7197207132d927cdb0",
+    "ts": "2025-11-14T00:06:38+00:00",
+    "title": "康全電訊傳內線交易母公司訊舟科技董座、康全副董等5人搜索約談| 法律前線| 社會 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96UkVqMlpITjhvLVZkQzBycUJyTkhSNkVUanUyMGtJUkxJQkcyZEZZVUduMGs2ZDRVMWZGU3FWREd5VGM2Q214WmpEWXdyZWN6?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "3047"
+    ],
+    "per_company": {
+      "3047": -0.7338025867938995
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.7338,
+    "sent_score": -0.7338,
+    "detail": [
+      {
+        "alias": "訊舟科技",
+        "codes": [
+          "3047"
+        ],
+        "method": "ml",
+        "ml_score": -0.2446,
+        "src_w": 1.0,
+        "final": -0.7338
+      }
+    ]
+  },
+  {
+    "id": "c27dcc80d8458509cdb65421df49a9c859168350",
+    "ts": "2025-11-14T00:06:38+00:00",
+    "title": "康全電訊傳內線交易 母公司訊舟科技董座、康全副董等5人搜索約談 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96UkVqMlpITjhvLVZkQzBycUJyTkhSNkVUanUyMGtJUkxJQkcyZEZZVUduMGs2ZDRVMWZGU3FWREd5VGM2Q214WmpEWXdyZWN60gFWQVVfeXFMTno2NTF1amdnWlJvdTZMUFNxY1RqNTBlVWcwV2V2bXRtdTFYRENKQU1vMW5oazRiMnZpNXowVm9OcEZ3Y2lfNnFFcUFZTzFLeTRpOThSN3c?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "3047"
+    ],
+    "per_company": {
+      "3047": -0.6627092957496643
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.6627,
+    "sent_score": -0.6627,
+    "detail": [
+      {
+        "alias": "訊舟科技",
+        "codes": [
+          "3047"
+        ],
+        "method": "ml",
+        "ml_score": -0.2209,
+        "src_w": 1.0,
+        "final": -0.6627
+      }
+    ]
+  },
+  {
+    "id": "b8ae5795e06a00d956e33e83448e54bdf2fc12da",
+    "ts": "2025-11-14T00:20:02+00:00",
+    "title": "輝達有意改採「整套賣」模式！AI伺服器90天就能出貨 重塑全球供應鏈 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aelFlOF9YZWZiekRsWG5LNDFwd2FaVlZkS0JSWmszUWxFRHlTMDdoNjhrZFVhSHZlVTNPVzdhejI2NjU0WVZmZDhFRUVQbnc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "c10aae2e554839ef5710b938d84ab225dd175faa",
+    "ts": "2025-11-14T00:22:39+00:00",
+    "title": "比特幣跌破9.7萬美元！幣圈專家示警「短線難脫鉤美股」：千萬不要開槓桿 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOTXozSFZaMlh6SG4zWGxFRlIyc1prUUJzMXNlVEV2ZWlpVG1BUVlMYktWVGtaRXlhZnNHYzJhemdHVTktaElld1B2SzNadHlpOXg4dkthQUE3YUFjVUEySnN6NDVXMjVNblJJV3JkUEpRRWxSempKYTJUSzQ5cmh3NnZhNTZCS1hpOXVZaHNNemc5WlNabF9sYlhjLTd0ZGNtS3NLSzdLd3dXeTRIZ0NqX2pPYTAzOU5Ec0JHOTNmbUVsUkVBZlFQQno4SUZQQ0NJQmlIYXVnSTNDNjhoOWdYUEM3bGRWRE16M2diaW9weUNnMFdLblBaLTl6TXEyUDU0Rk1UYWJidFJBSjZDYmpURXdCSTF4dTJyZVdhSTJxMUJ0Sm5wcWJidXhrbldyeC1xM2R2ckgyZVkyWWxYRkxzZWlyRnhlc0NmeDcwVXJVRG1GVWs0WVBrT00zMGkzeno4RHk2SWczTjVJUTI0VEJJU1ItUTVrTkdGWUoyTjQ4Wi1NZDdxNFd0dHVrQ2hSaktfSV80XzBrYzB1Y2FCLWF5QzdqSzdTZV8wZ0liQVE4N3Nwd3h3d1VPZlZSNUk1ZUxmZldZbUVXNlBzNUhaSzNucVdHSmstZUY1Q3k3S1pR?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.33211880922317505,
+      "1435": -0.33211880922317505,
+      "1341": -0.33211880922317505,
+      "2025": -0.33211880922317505,
+      "1314": -0.33211880922317505,
+      "2368": -0.33211880922317505
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.9926,
+    "sent_score": -1.9926,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1107,
+        "src_w": 1.0,
+        "final": -0.3321
+      }
+    ]
+  },
+  {
+    "id": "8ab640412e1dfcec43ff20ad7084f85c0d055660",
+    "ts": "2025-11-14T00:28:31+00:00",
+    "title": "高股息輸了？00980A、00982A年化9％ 為何內行苦勸「別為這點息跳車」 除非1類人- 基金 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTlF3UENFb0tQdm9TRXY0bHhhOTNPVTNRaHlPT0kwMFZ6emVSR1Nic3kxRm9zNGQtWU1Qa2w4S0F6MXh1OGtsSk40clI3Z1ppb2pYbkMzZE80T3JLYkt5c3piN1NwWFV0T3c?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.33003759384155273,
+      "1435": -0.33003759384155273,
+      "1341": -0.33003759384155273,
+      "2025": -0.33003759384155273,
+      "1314": -0.33003759384155273,
+      "2368": -0.33003759384155273
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.98,
+    "sent_score": -1.98,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.11,
+        "src_w": 1.0,
+        "final": -0.33
+      }
+    ]
+  },
+  {
+    "id": "d94b8f9d16a6c0c23739c707628a1b056450770f",
+    "ts": "2025-11-14T00:35:30+00:00",
+    "title": "四家公股投信醞釀整併？財政部：應是朝好的方向發展 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQbzdBOS1UbU9PREdPdlQ4akliMlNVLWs0cGk1blBvS3BVOURnSTBtOGhxLTNDdExCbVhwdFVQVXJJNmVKZWRXYy1ZamVDT3pMQ1dTNmh5aF9WS1o4c3NQZGs5WE5oV04wbG55enRVRHlrZks0d0o3dnFBekhzbnk1ZjVfMHk0OGwwUHlJc0NxOXNVNV9LcFkwVEY5Y2RHUDR0R3hyMjh5ZEc1VHdqd1A4cTlQME9fQ0YtTHZQT2ZPYnVYdXZnZi1jTm5iTXhyUXdhbnQ0TENSdEYzV2VYV2VMcEFCLTJ5dkNNaENXV1VkRmg2aEo3U3hBeG1Va01rbTVlazdDUXU2THhQYzFweHVFMDl2TDdWc0oyV0wwRGtZdTBtSEdNY3VydU5wU0NQLXdlTThnMmZja1pabFlVVk9Jd3hMMGNmY3BVQ0kyNC0yUFhScDA2WllORk9KeHZyM2RWY0JZU3NNWElELW9LeGR3MWdZNA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.43889129161834717,
+      "1435": -0.43889129161834717,
+      "1341": -0.43889129161834717,
+      "2025": -0.43889129161834717,
+      "1314": -0.43889129161834717,
+      "2368": -0.43889129161834717
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 2.6334,
+    "sent_score": -2.6334,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1463,
+        "src_w": 1.0,
+        "final": -0.4389
+      }
+    ]
+  },
+  {
+    "id": "8a09badf63da8639af9e9e076e5be8c033ce9461",
+    "ts": "2025-11-14T00:47:02+00:00",
+    "title": "力成砸近69億買友達竹科廠房 擴充FOPLP先進封裝產能 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04Z1h3YVNZM1p1cDlIdWpZZ2ZsSTZ0TllKdXhvTUNXQTZfWW82Nk5MMGstLXJ0amVvVk82WHprVjZPeFBad0NnUy15dzJtWldqUjBNZUVleGQ4T0ZfdVk40gFkQVVfeXFMTWx1T0JoVndnZHRRQllveHNpbHJCak1QNzdQSlV1T3BSSjhnRWlpTk5HWTVUYVFubW5JQkd2dHM4LUlTcGxnX2JBWVh0dEFtbjlORkJfNkJSbC0zTWphdXU5Qi1JSw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "63bc6c25470b31ab4d15b09ce57930f564bdc900",
+    "ts": "2025-11-14T00:50:11+00:00",
+    "title": "【Follow法人】外資重砍台積電、鴻海兩本柱 合計提款347億元 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPSm05WXUzZngwZE5DRmJNNmRJRUpRWlF6R3djUktkbEVZVnQyTFhyWFAybDQyU01FU3E5REhEdi1lVEFSVkoxb1IzR19nM2I0MmVZSHJoM3ZrMjI1cjZOU3BHMlNyTmlobWR4WlhvZGgydjVOdkk4eDRjTld4Q3daLXlmLWVuOXJORlZfcUZoUUl1b0ZwMDZyenRpMk85ajA1TTIwaXRJLTJqQ3poVHo3ZGNOMkZ6SHNfVWRGVlNLN3pGYVFpdnNHdElNalpoWlBFVUpYb3haQWlHUG5RblhOTG4tX1dNUHVRM2Q0ZXNoZWtPQjQ1NE04ZU5xUGNXZ0UzWmNFVGNPUnVXaG0tb2hqT2E3bkw1ZGdiYV9KVHZDMzZzMmxBV1Uwbl93YWJkQS1URUJjQ3JESGRDSVBHQldBVExOWFo0VEJvZVVrcjAtTVB4R2JieGNQaXNJOWcxQU1oc2VoczYxcXY5SWFYQ1paRG5hR1RpUXQxbEIwVQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "a7a7d74ff4a6c82fd128a911962f57fab979b651",
+    "ts": "2025-11-14T00:50:11+00:00",
+    "title": "【Follow法人】外資重砍台積電1.7萬張、鴻海4.1萬張！合計提款347億元 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPWUpvbkU5a2xlaE80Nm45OEtEZnA5alVpa3UxQklGTHg3ZXBSX2VSVFlCSGJWWC1ETFlEMXV0aTFTSjlmSzZkOG1tRk1mZVN5NnNUaG80Smc1LVN3V013RFNnS3lIRGpOMWl2bW5aRGM1M3AyUG9vZ2RVQ3J6cjRWYkZzbkpiRF9OMFBvaDVXd1pZV0tSRklueFB6TzNnU29ud3hkNHY1VEV5RklzNGVSYVl4RUlwdi1SZ2RnNTdSR3ZKYWpYUWhEOEdKT1ZIWlRVM01jYXZGMmNIMlhYeVp5Q0VBT3BtUTdoQ0VDR3lNVGRVbjBuOEwzMXZEUm43aXREMG5wam50WHcycXVkR25GRU04Z3dmX3BGaWZSb1ZxczR5Sno0UElyb1NXZmk0M3F0OWFCTjhHZXdpYVBpeHM4R3c1VWJJT3JJbEVEaVJWMnZxT25Qb1JJTFhRckc0MUZFdmNoNGNDbVpBdjVhcDQ5UHY5eGdpZmJjeGcxUmNGVDRpc2tmWGdLaW5UNjAtUHdPblpiaUJQOHM?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "4a037c292d89391dfb6ca9e588c6bcfac5b3e649",
+    "ts": "2025-11-14T01:04:00+00:00",
+    "title": "定穎投控估Q4營收持平到小增 明年成長看AI - MoneyDJ",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjJleHdiaTQ5VV9ySnBWaDExcVlBYWdXSDE1OVBFRVljckwyN216b2taRm1mWWZ6S3N1cHJRSkxFWDFpb2pjSThOSUJkUXN0LTUwaU5TQ3BEQjN2ZlUtRktxYVNxUlliVUppRXJ1QkNZelBkekh5UlBRVk5WTG15aHdXNjFodkhyU0RqSFl5UXNoUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "80d8b93a2028d3860de34d2560b427e1ff1bb15b",
+    "ts": "2025-11-14T01:04:00+00:00",
+    "title": "定穎投控估Q4營收持平到小增 明年成長看AI - MoneyDJ理財網",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjJleHdiaTQ5VV9ySnBWaDExcVlBYWdXSDE1OVBFRVljckwyN216b2taRm1mWWZ6S3N1cHJRSkxFWDFpb2pjSThOSUJkUXN0LTUwaU5TQ3BEQjN2ZlUtRktxYVNxUlliVUppRXJ1QkNZelBkekh5UlBRVk5WTG15aHdXNjFodkhyU0RqSFl5UXNoUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "f32012648f3df56496505b6c8fc03dd9fe50e05d",
+    "ts": "2025-11-14T01:24:00+00:00",
+    "title": "技嘉前三季賺逾1股本 AI伺服器看旺、訂單能見度至明年底- 證券 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9US1hxaUV2STB1dUFqaDB6SXJqb0FCS0dQWEJHU093VGhjU1pfbTZHTU40Zl9kczNnQlZLelFsb2ZFZmtmNXhKcE5DU0V2OHZFNUlHRnRVZXB2UW9tc1Zr?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.8435226380825043,
+      "1435": -0.8435226380825043,
+      "1341": -0.8435226380825043,
+      "2025": -0.8435226380825043,
+      "1314": -0.8435226380825043,
+      "2368": -0.8435226380825043
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 5.061,
+    "sent_score": -5.061,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2812,
+        "src_w": 1.0,
+        "final": -0.8435
+      }
+    ]
+  },
+  {
+    "id": "7708ba87bd1a0d56bb1baaa0aebaa869708b6a0c",
+    "ts": "2025-11-14T01:45:34+00:00",
+    "title": "力成擴 FOPLP 先進封裝，砸近 69 億元購友達竹科廠房 - TechNews 科技新報",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqaGNSbFFYNWxpR0VFWXhWUlc3UDV3YU85d1ZfSkRFellSQnZYQ204TFE4RHBZcVNlekFXczNIeHp2RkpCVkVZdkZSRkwwQlZSclR3YzRLUHc4WlNvMmZBdnc5TmVoQWYx?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "4654036c06688e9ca414d18cb86d7337b5a95014",
+    "ts": "2025-11-14T01:49:12+00:00",
+    "title": "法人大逃殺838億台股重挫506點周線連二黑/外資領息後狂殺台積電兩面手法壓價跡象濃/正崴三檔全面跳水集團市值噴掉45億｜Yahoo財經掃描 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMihAZBVV95cUxOakZBTkU5UWFQZEZGeWxfbnBrTmZlSDJYTWhMSThHOU1VcWdWTks4Zi1SV1ZQemJRdEZMcFpyLTY2Wk4wRmFsQUsxXy1GTnNrd3BzOVYtVW1NQ3kxcURhM1JEdlBwRC1QQkh2VXdVeUIxY2tkMUxGOTVGSzViTEFVV0VkR09IRUxEbEplV1ZJbjEtWG5xYm1DbUJnaFpoUDV5SFFoZ3FNTjZQNjNBZjA3Z2tEdUpyX1R1V05aNUxORVhaR3dvYlM3WW1IRGJCY2Q3c2hZTmRGV2c2RDF3dEZzZEhLN3dVdFVrZVRBMktsRHZTa0x4a1pKQmp2RzhKN216OGUyeDFQSUxPd1daQWRPUVd6LVp3dkN5aWVnakdybkk4NUloOHZUVHYtRWNJb1VtY0h2QkVoZ2p6aWxtNFJJVm91WERQMWdqWmhyNHdEa016T3g4ekdkbnNYMmFqTlFKSFpBeWdYUzRncVZhTDkwUl9HMmFkRHA2TEx2Yk9sY1l2UUJkQnhGSEQwYnByejYzbnkyTU50dkFKRzc4OTl1OHJlbTYyZ2QzUVUtcnp5eG9hVXVDcUdWN2Y5WHd2eDNueU5NeDM5anVCa2U3dm53QlVBWkRTUTl2c1QyVm04NjgwVjU0RFpJNjdnY2lwMlFTdlJodGYxaDdCVHVYZkd6QTJrcGlXZF9Sb1lQWmc4dVZHSTBSZnBvVnFGR3JXb2trbURyVDh6OFdsUzRzRUJmSWk5a180UjNFT0ZpQU0tYXZ3Z3RLMHVuVmI0eElnU1M2LUgyejdiS3Q1bVJvaEFJNzFxdnJJOUNpT0ZsbWR0YlNzamNSanhfZVFJYmdOOV95WUxJRUI4ZlFsLXMtYUdXWGxTbHpQY2NWSnZoQUh1SDFuc3Z1QkdGcEw2UjBsaTN6Sy1KdGZGOHhidWxfN3Q5c1FkVlBKcGNOY2tuUmwwS3IwUU1jc2ozRmFaVm8tV0Qyd2g3Q0FxWDRTNlAwTlppeWlCNnU0Q0hYamROVlRRX2ZtczI0?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.6826103925704956,
+      "1435": -0.6826103925704956,
+      "1341": -0.6826103925704956,
+      "2025": -0.6826103925704956,
+      "1314": -0.6826103925704956,
+      "2368": -0.6826103925704956
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.0956,
+    "sent_score": -4.0956,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2275,
+        "src_w": 1.0,
+        "final": -0.6826
+      }
+    ]
+  },
+  {
+    "id": "6c83ea8a9817afb3ca4768315b9b6fbc15b76539",
+    "ts": "2025-11-14T02:00:22+00:00",
+    "title": "最全數據指標分析：比特幣跌破 10 萬美元關鍵位，牛市真的結束了嗎？ - 動區動趨",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaSWxXOXlwTjh0RVVLWWZWRXBFOWpzVGh1ZkZqZk0wZ05HQnhNLXpwc0hKOTBYV1dDcUQyVXd3Q1NrNGdfQlhCR09nUzRCekxFRmRkajJvTm9POTlQVFpjVHBLek4zR1BOVGN6MDM5Skk3YTRaWVR6UEVtdk93Zw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e90c7eb70405a6afc6c8b77d739c80a071c58738",
+    "ts": "2025-11-14T02:22:17+00:00",
+    "title": "外資大逃殺！台股重挫逾500點 新台幣連4黑成最弱亞幣 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wWERmWUVKWDZtVTVBN1lWN3hRbWVtSTdsSFc3NmdWZjR0cU5zN1Jhd24tSURPVmxpVzBneW1hV2hsd3RRVE1JeTM4MDFKLVF6UGVkaHpScHZXMi1uSy1n0gFkQVVfeXFMTzZGclZ5UlBKRUZqbXpUdF9ZYkJKWXVkY3R3XzJSWGwyU1VyTUh1U2NwbVRidHJsVFdZb3kzaHRrUnJFZkRYNXpnWmRqU3lBUUZtMzNKRGN2d2hGTTNLNDhuTlFiTw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7993834018707275,
+      "1435": -0.7993834018707275,
+      "1341": -0.7993834018707275,
+      "2025": -0.7993834018707275,
+      "1314": -0.7993834018707275,
+      "2368": -0.7993834018707275
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.7964,
+    "sent_score": -4.7964,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2665,
+        "src_w": 1.0,
+        "final": -0.7994
+      }
+    ]
+  },
+  {
+    "id": "f9e8e2aa7056d5281e21bf6557f7f754f1316ff0",
+    "ts": "2025-11-14T02:22:32+00:00",
+    "title": "不是海湖莊園協定！川普2.0另有妙招壓低美國利率、鞏固美元霸權 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wM21pcEt2VE5udENacV93c19TQlI2blgwTmpGZ0ExU0Z0WlJUd2ZWNTZvSGxnZjBMdjBJa1ZlWFkxcE82dGlnTUZ4OVdKY2JWMjdr0gFYQVVfeXFMTzlnZEY5cElneWFhNkQxQTQwYTh5NE96dkRFM2hwNzR0WUVHaEVmeHlHWDNhX2RsLWhwcnFQa3g3eWpXQm9aN0E5WXpwblBSRzVFSGRfaXdNVQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "698664928cbe59f9ef2fc79d0d0f958d323477b3",
+    "ts": "2025-11-14T02:24:52+00:00",
+    "title": "抽中一張賺75萬！興櫃股王鴻勁下周一新股申購…成本逾149萬元 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNYXc3WFVyUFFsQWt5NmJsS1FOTy04aXZmVmoxNlZlc1NQT3NhM0VZcU5WNFpIRjRycGlsdFFlRVhDNXFVNGJLWTdScUY5VXVLWXFYQ21xOE1CdGRHVFV6Q19VYzd0OF9pM3lBeUUydnB3ZnNiUXlzYjJzZkxqQWlCYWtOQlN3RXJTYVl2UExzOWt2VFI5SHlIb0gzUnRUdHVqdVFEWHhwblRCbktxalJBbjNnSDZTSTVKcndmbDlsMnBSRjB5TlUzUVhORDF6V2lpbTJrd0xxRVBkUWZTNTBTek1aR2JYQmw5U2ItTUVyTHJ1NXpHZmRSV2dwZ2dQX0p2V2c3RW9pT0lVX0hKb3hrVS1sWXprcmtpZTEwQVhmdHZoT0xjS3FVWTd3TVRiTjl0X2ZzMHJyblZ1U1lfamVxM1Q5SWV2OFpaa05vQ05xSnUyUV9fTWN0RWFjN2NQUFhHN3M1WU5walpIRF9BYWRRUVkzZHNiWmowdnlSSW02V2VCal92YmVwRTlrZjRWZw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.0939579010009766,
+      "1435": -1.0939579010009766,
+      "1341": -1.0939579010009766,
+      "2025": -1.0939579010009766,
+      "1314": -1.0939579010009766,
+      "2368": -1.0939579010009766
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 6.564,
+    "sent_score": -6.564,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1823,
+        "src_w": 1.0,
+        "final": -0.547
+      }
+    ]
+  },
+  {
+    "id": "ce12f72962556c44fcc1653a0e80da60be7abe46",
+    "ts": "2025-11-14T02:50:34+00:00",
+    "title": "伊爾艾朗：AI泡沫是蟑螂多白蟻少 難免有人淚流慘虧但無損經濟根基 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81VXFfRl9rRThOTUZkSjV1ZUFDR0g3aDdGdWtYeFNBV2ZnRjNFRHllbG9KQWZZQUVGRGdJNUl6QTlhR2lCaU10LWc3RXVQNVI30gFWQVVfeXFMTURRNVpvdThLbTlUQktxcFVlUUctN1ZIUlJncko3R2JCU19VZC1KSndQdDJ6Mk1NbmEyWXZ0aW05anY5UExmVnlRUnllTC1WZnVLSUowbFE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "bbeb5c7d2dd28a02bba2f310d61c3935209a7991",
+    "ts": "2025-11-14T03:09:12+00:00",
+    "title": "三指標創逾1年低點 中國經濟降溫程度甚於預期 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mOExlQUF0TFQ2emlpd2R0T0FpQnlnUUxtMUZlbzkteFRENUxfMDFKdmNZaUxGcHA5TlRwNlpLTlNiRHQ4TFVVcUFfNFhfaEd1clVibnFWNnF4ZlZrVFNB0gFkQVVfeXFMT0REZGh2RXNyQjdXc2xOX01TdGJscnJ0bG5STEpqdTJ0MTJSU1NTb3BhdDdoY2k3RDJCR3dfTkI1V0FZcVM4aFlXUWRvR0p6bmVmQjRIT1dYbzhvQ1dRYVB3N3cyVg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ca926e8d94ac57031a2def4d80a59beecdd060b9",
+    "ts": "2025-11-14T03:16:00+00:00",
+    "title": "外媒：記憶體晶片嚴重缺貨 三星漲價最多60％ - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTW8xZnBJMG1Xa05wRi1xYzRPSTVpdFAyZ3pQSUgzb0JJcC1ZV0RJRElTUDJteDVJWUxhTTB5aldyNzl1ZlRWMWZjRUNuYkxDeWRLTXFnbWRIMDFaWVpv?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "25796fc22ae9e2ee31580b4de7647181c35b22e8",
+    "ts": "2025-11-14T03:33:12+00:00",
+    "title": "降息夢碎？Fed放鷹嚇壞市場 金價瞬間回跌 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbEtZVGNRcE9MZ2hwczRvSDNmdUNZM1lkNExLM1ZUSlFRLW1FbVJNakRFODBSeEhjeE9CdlpTUEl1WGVCVXNtTFRsMzNfMHc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ee72f298f608558aec5647cb6073d0b5d85b8ef7",
+    "ts": "2025-11-14T04:04:00+00:00",
+    "title": "快訊／經濟學人批匯率造成「台灣病」　央行拋5點聲明反擊 - ETtoday財經雲",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83MjZlMmRpckkyQUlubEpjV3lnY001bGZmZlBySmUwMmdfM1A2MHFERE5SY1FMakRYd1pqUjNDRmlBV1Y5bGItNEJQVjJIRjN4YlHSAW5BVV95cUxQS1Y0VDBXcFItdmhLUS1kRlRlRGVIRnpjM2doVW01d1hoSHAwMlI5R3RhQkdNZ3NEQldXdm1KVm1jTTNFRXpRRURwdEVsSkpzam5mNEYxVDZzQXR2Vjc2a0pRM3F6N3RWRDhpWEN2QQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "1b8498e8a674db1b950da9fd416c28c56a7fe25e",
+    "ts": "2025-11-14T04:18:00+00:00",
+    "title": "經濟學人批台灣央行長期壓低匯率央行提五點反擊- 金融 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWEVLa3k1WXptX1NBMmdqbzg5ZVY5VG9Kd0tEWnlRWF9tSUp4VnFyNVZicUl3NUtyX1ZYVFYzTlExZFlZZ1RndENpa0RPdHdHN0gzQ1l0LWNqdTJheVh3?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "468cccf4a20f07ee06396ad5dc1eb81a9f963279",
+    "ts": "2025-11-14T04:22:00+00:00",
+    "title": "經濟學人指匯率低估衍生「台灣病」央行5點說明反駁| 產經 - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sUERKZzRheU1RRGI3M01nMGhPa1V1Ymp6YVoxMXRCQkc4Zm1sd0t0VjN1S0d6RmlWV3Q4b1AwbHRUSGw2LXJsdzdCTlVWUTFnOVYyRjNJRjZjdzMwY0E?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "60009919f45ebb713b7c94a602dc5337994ce0ae",
+    "ts": "2025-11-14T04:28:31+00:00",
+    "title": "快訊/台積電突發重訊！ - 中天新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TVWN0NTFKZF81SndTc2t1TVRURXY1RmpsbG9wX1J0TmNYMDZwRnVfeGNMZ2RKU0VqRjVWbWRTR04xeURqWkxubnh5REtZeXdfZ1h3?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "8de8c4e8ebc6e138691ba3fe0f6e7a0c96a9cd74",
+    "ts": "2025-11-14T04:33:08+00:00",
+    "title": "Twitch又搞！WirForce直播熱唱ACG曲舞台正嗨遭Ban台 - 4Gamers",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFFuNVY1MVRNbVZGMnFkV0t5MnRITVJERTRQTTg4cFRxM1VRNEtLSDdncVYzZ1A2emNIV1JLWVY0bWkydUpwd0JIOHBUVnZDOWZqSE5pWHMwaTV5V2Z6aFhRQ1hxQ1Q1WTkxNnZ2N1FvbEtFQVJDSHNaSk5yNjNQa0NOcDVIc0Q5eGJmNEludGgzZzg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "6e27530969c80399def8d81c0e9df528d10eed59",
+    "ts": "2025-11-14T04:33:20+00:00",
+    "title": "中文版-最新消息-新聞稿-本行與美國財政部匯率議題聯合聲明之說明 - cbc.gov.tw",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5UGRxbm5mZ25FampXX1E2OTRuTGM2bUlfMjBDRnNmemF3WGQyZlNNNDJsSlpNbDBZVDRUMUZ4TXRuQUhJSzNvYklNb3Y5bXRlNTFSb2JtWER6RjdKY1NNc29R?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "0772e4d9c9c92ce512ed9744861a493153728d23",
+    "ts": "2025-11-14T04:40:45+00:00",
+    "title": "央行與美國財政部匯率議題聯合聲明 12月起央行干預匯市資料按季公布 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83MUVMc3JlUzc1TkdPNmpWQXNXblJNRTNRb3FoQm9QRDZza2kxS0lESUU5ajhTb0Z5YmJ2N2RxOGtDUUd6QS1RUTcwQkFNR0NFdWo5ZUt5MzRxQdIBX0FVX3lxTE9ob1RGQ0VHclh6b1R6ZTI5ZVFVRHoyU3Z0TkRCR2VQenVYR05BVHlMdlFGZmt4UExxNGdPc3RFVHMyOVFwa0lneEZrQlIySXlKR29NVzlqc2x0NkphLTIw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "4679871520cf9a211a560f1beff74b1c352360fd",
+    "ts": "2025-11-14T04:43:11+00:00",
+    "title": "台美發布匯率聯合聲明 承諾不以匯率謀取不公平競爭 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wR0E2REVRTTFLUEh4d2F6eWZ2eW5rNmZ2QjhkMjBlUTVKVDVUY09SbENsV2NzbEVZOU9iMld0WmVDRTJzbkRqLTdfVUJuRWM30gFWQVVfeXFMUG9DeUtXYnluY2ZlaThoTDUyUk9za1N1Rzd5WG04Z1RwS2xSRmQweEVCSy1mc2cyQmhIdVBIX0JjZHNlVmN6OHNiMjR0WUNxV1JKTmJVS3c?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "a1d9d8a09adf078157439a516bdd5c8ae0e7290b",
+    "ts": "2025-11-14T04:46:12+00:00",
+    "title": "獨／公股投信四合一 華南金民股林知延將爭取主導權 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaR2ZYYzBYODRxZTc5Z3ZLTE9pSk80QjRJanVzeHRRSk1FT0lkOFZXQklHSzNRRHdlcWcxbENsZDhWakVqZFVjV0RTVnliempY0gFWQVVfeXFMTlNXNFpzd2hTbV9RdkM0czlfcnA5aUsxLVc1RlF5MlZrcE1OeDdDMVdybUtmVFpvVTFKRXlEeGdkeWx6Y0VscTNoa0tVOVJpeUh1X2JmdFE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.1020697951316833,
+      "1435": -1.1020697951316833,
+      "1341": -1.1020697951316833,
+      "2025": -1.1020697951316833,
+      "1314": -1.1020697951316833,
+      "2368": -1.1020697951316833
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 6.612,
+    "sent_score": -6.612,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1837,
+        "src_w": 1.0,
+        "final": -0.551
+      }
+    ]
+  },
+  {
+    "id": "3d36271a40dcd9f2e428b03a76759c81bb136cfd",
+    "ts": "2025-11-14T05:15:00+00:00",
+    "title": "大盤暴跌506點！裕隆抱鴻海大腿...攜10檔逆勢飆漲停 被動元件小將「5天爆噴47%」火力全開 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOZ3pabzRPdHFZbHhjWERtOC16bXBxbF9VTjM4QXJVaU9jbV9ldXBhVjQtLV8yUDJTVUZZTDY2SzBKYXZtZTliMUYyV3ZPUzlMVE5LbjV4a1hjWjkwZHNycFM1MG9neGQzUDQ5alNia01WWG80YlRDY2NmYlJiWjdJdjlObjgxY1E5RTFHUDZpVUFnN2ljZTBZaUliTjVJSS1hZ2NNa0JuWUZiWDZjdF8zMFpYclJFaHFQdEhKMm9PdDNtRnJxM2haOHRwRUVic0gxY19EdmliYjF2U0lqRGx0ODZ5M3oxUUptenpOb1JCM0RqYkN1RnZsMFFyV1VvMUd4YjNPdURfZXhUdjROSWt3THYxMXA2RWdmLTkzak1PbjVoc0RtTE1rcWs3WUV6VG9tLTRtTHVlbUZFRjRPanNpVmhrUlBrcEdLYm11emgxQVNQU0pydng4WUNWZVhrUkN5ZHpQbWgxd2phT29aeG9QNTgyZzhINEg3eHR5ZVNqM0lRUVNnOWxZUFZEbW9UX3VDTE1UbmdnTmVIVHp4MGJzUmFmSk9TemoxX21yeGF6Ym1YZ2RlXzk2SWNtdw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "5d56eb35fa97619ad2cd2808e85b36dbff1d2436",
+    "ts": "2025-11-14T05:18:13+00:00",
+    "title": "黃仁勳：不諳英文的母親教我英文 至今仍影響我的領導風格 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuZHZXVW1xM1puTDRnQjZmUkVnTWtETm1UV1J3M0kwSUxWV1VqSHpPdkJEaEJzRHVvX1Y2dHFhVXZKQkdmMWNTODVCRFlHWUU4RkFMLUZxSU5rd9IBX0FVX3lxTE1yWjRMQkpBc09IaC1YSjZPRFp2bl9qYTNjVW5MOUpQcWdvc2gya0ZyZzV6XzJwaEYyZHJxeGh6Z3RiRlJMZ0x2cEMwV2VoY0VKd1pMU0lHSjNiclJLd3hJ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "167dbee3861d4ba89ddcb2baa5f9ab3825d53d78",
+    "ts": "2025-11-14T05:27:43+00:00",
+    "title": "輝達催擴產、馬斯克想自建廠 台積電為何寧可讓客戶等也不冒險？ - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IWm1tSWRRRGEtbGhrNDV2N1ljdG5CdkhsOEQ0ay1faXVyeXowYjNkLTlfN2VPLW5yVFRRT3RFTEN6aFVPZHVHaVZFOFdkbTA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "1a425135fcb0eb8a4a1b63719b0e6bfb0d6a59fc",
+    "ts": "2025-11-14T05:40:08+00:00",
+    "title": "美國管制吃大虧？中國業務承壓 應材股價盤前跌逾7% - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSZmJCbUdIcmI0V1BaMjR1Vmprc2FySUYtTk1mNElNX2tNNk9UZVhQVG90WXo4Y2NEV2FoZ3luSmMwMWtVZktmNGR2OU5CSWs?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.6830360591411591,
+      "1435": -0.6830360591411591,
+      "1341": -0.6830360591411591,
+      "2025": -0.6830360591411591,
+      "1314": -0.6830360591411591,
+      "2368": -0.6830360591411591
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.098,
+    "sent_score": -4.098,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      }
+    ]
+  },
+  {
+    "id": "a948fe6aecf2f40dc24ce71d912a5f82f77db266",
+    "ts": "2025-11-14T05:58:43+00:00",
+    "title": "WirForce台V三連唱Mizune靦腆冬雲凜自曝「督錯洞」！洛可洛斯特壓軸瑞克搖釣BYOC全區 - 4Gamers",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWlLdGpHN0c1NnJaY2VUMFVvY3IzTFUzZjd2YmcxUUhtUmhVU3MtQ2U0a3ZJVXNWbmd1azd1STRfYmRMYlBOai1qU1MxQkFiRTFvUEVMb1R5Q2VIWGRzR01maVlXR1Q0Z1RPWERmaldMRUhpNWZiQVcwT1E5cFoyeF9BTi1sY1U5d25NWlJLQjY0YW9uZ1N4eW8weXFxbWxQOFk4a0R6LTdJb2hKY19qUHpOOA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "bccd6eafd4e2d2b9202f2ebe3491f4e41743e760",
+    "ts": "2025-11-14T06:00:00+00:00",
+    "title": "獲利創高難救股價！「散熱模組大廠」連4黑登弱勢股王 前三季每股大賺32.25元衝上史高 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPcEdXdmFmT0loSmd1RzR1NldmR1FwSTJ0ZENNT25VZDFIVDRWZ2swWUtrZUw3dW1rV1lPa2Z2Y1luT09ybDA4eTlHamFXYnVUN1NFR2J3SGtuN2ljOEhCNVpGdmE1V2xYSTdiNmN6Sm5pOWk2bGxUdlhFSURvSUhVNUpzbXJrNVVDamN0d0RzWUxrb0RzMjRvV2pJY0tycldaazRVMlpqS01zZzhxeXBwdnJoanVRNFRpblVXbUJfSkZSa19BWTJrbDFWYTdFdEJzVmFZZWdzb0xiMnhtQlVQQk9IVlBvYjc4OUpmVm1pR0N4VElCLURxdV9tOHp2QVlDS0RvaktnQ0lRMlVQLWNKRVctTlZjaGFIbDZQS2Q5UG5wMGZ0bFVMbmhXQk9oeVkwQkFCSDBxUTY5Y2UzeVR1VGJTVlRaTFJYUFZPQk43OWttUTJLNXBudngwbEJ5OE5DRU1UMjJBb3NwRVI2VGpidzMwQjY1MEdLRUV2alZmRDdETVhCOFdTZ1J4WHlXVi04YzFvLUZiZ3NwU0JmT2Jxdm9kMk1ZS0g0VmJpMkNmdDBUbl9DUVlHQzZtZjgtbWYxa3VHNEpVaEsxR1NVc3dHY182YVAyanVReTVBREF4SlpCaEtkU1hPenZHeTVFSVpPSlZB?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.7442805767059326,
+      "1435": -1.7442805767059326,
+      "1341": -1.7442805767059326,
+      "2025": -1.7442805767059326,
+      "1314": -1.7442805767059326,
+      "2368": -1.7442805767059326
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 10.4652,
+    "sent_score": -10.4652,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1829,
+        "src_w": 1.0,
+        "final": -0.5486
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1993,
+        "src_w": 1.0,
+        "final": -0.5978
+      }
+    ]
+  },
+  {
+    "id": "c895358e3c36c583e20384e97ed0e5bec20eca9f",
+    "ts": "2025-11-14T06:07:00+00:00",
+    "title": "賣壓來襲 台指期夜盤摜破27K、台積電跌破1,400元 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qSEpBLS1GaldJLVprbjRrZWJETUx5enhmNDJTLUpHM3NKLUY1bGctSTJkUEdqbVJDazh4aENHWWEtR1k0aEJhaks1YVRpdkNqYlU4NS00Ri01clJEVTFv?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "60c4707b7a88e9ce64b9516b0ebbecf5b2ee6423",
+    "ts": "2025-11-14T06:07:52+00:00",
+    "title": "AI晶片折舊該用幾年算？一個會計問題恐掀科技股估值巨浪 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsV0RMaktOUmFUZzlZWTJvVG9Ya2F5b0VxMmRpUnFwa2x6VUZxbWpwYXZtVC14MkljeUpIN1h5YUtGUlJRQWN3c2RDUTl1V2s?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.5545570850372314,
+      "1435": -0.5545570850372314,
+      "1341": -0.5545570850372314,
+      "2025": -0.5545570850372314,
+      "1314": -0.5545570850372314,
+      "2368": -0.5545570850372314
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.3276,
+    "sent_score": -3.3276,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1849,
+        "src_w": 1.0,
+        "final": -0.5546
+      }
+    ]
+  },
+  {
+    "id": "84c2878a02d546504d6a5232191e4a45c364ffaf",
+    "ts": "2025-11-14T06:12:02+00:00",
+    "title": "賣壓來襲 台指期夜盤摜破27K、台積電跌破1,400元 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNOHJyRldrTTFENjJkbW9zVEZpOEY3Slp6akgwc2p5ZElqYW5HRGdfU1ZTdkNkeF9Xb0tOTm1YdmxWa3J1M1lQR0lJakZ6aWJId2lGNk5nMExnOFFNNDFNdjQ4LVJJRW1oMk5NdFVYOG53R3NRamVCRjIzSmk1blB6VlhQLXBRVmFMOHczeWEtMUJQdFBoZWd3M3BYOFhPZkZNR2ZlSlpkMUlqRGV5UTN2QUVhcTZGcHFXRVdrNkY2ak5HQ01tZzNwT0tzcVJTcTl5Z216eEpGX0hBNEVzcGlpRGxQOXAxZy1tVHU2bk5uTnBldVoxU1hyUEwwY2ZwZ3lzUlgxMGIyLWROU2Z6TklpNE1xeS1UdmM2MXVtVnp2RnJXTzVYTm50cWVnclhTenB4VXJjOA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "f7fa0946b65c85e7a36aef81be4a68a3c5f822ac",
+    "ts": "2025-11-14T06:36:00+00:00",
+    "title": "LED股王無預警停工！近萬坪廠房遭法拍23億元 - 東森新聞",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pX1BFMUdmNWFEYlRoUXB2c0dOdmlidC1iYXVJMm5LZXYxWUNiTHlsNGcwXzQ4MXBQN0J6bWpnYXdjNVN3QkxsVHR1VElGRmNWY2JRYThCMA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.3065713942050934,
+      "1435": -0.3065713942050934,
+      "1341": -0.3065713942050934,
+      "2025": -0.3065713942050934,
+      "1314": -0.3065713942050934,
+      "2368": -0.3065713942050934
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.8396,
+    "sent_score": -1.8396,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      }
+    ]
+  },
+  {
+    "id": "3341e62e7a1cb30a2746a58e4e3695322111e2ba",
+    "ts": "2025-11-14T06:36:00+00:00",
+    "title": "LED股王無預警停工！近萬坪廠房遭法拍23億元 - news.ebc.net.tw",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pX1BFMUdmNWFEYlRoUXB2c0dOdmlidC1iYXVJMm5LZXYxWUNiTHlsNGcwXzQ4MXBQN0J6bWpnYXdjNVN3QkxsVHR1VElGRmNWY2JRYThCMA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.3065713942050934,
+      "1435": -0.3065713942050934,
+      "1341": -0.3065713942050934,
+      "2025": -0.3065713942050934,
+      "1314": -0.3065713942050934,
+      "2368": -0.3065713942050934
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.8396,
+    "sent_score": -1.8396,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1022,
+        "src_w": 1.0,
+        "final": -0.3066
+      }
+    ]
+  },
+  {
+    "id": "f2c0159ccb33d0ea053c522d393e113470968757",
+    "ts": "2025-11-14T06:44:41+00:00",
+    "title": "〈美股早盤〉降息預期冷卻！科技股、加密貨幣齊跌 主要指數開低走低 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nY0c0SHhiN3dEX01ndVVHci1OdE5iNW8yV0NvTHROYTZRU280M3J2R0toa1Z2aTBTLWVGM2lUWC0xXzBOWVQwa3NRd0c1b28?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.8994366824626923,
+      "1435": -0.8994366824626923,
+      "1341": -0.8994366824626923,
+      "2025": -0.8994366824626923,
+      "1314": -0.8994366824626923,
+      "2368": -0.8994366824626923
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 5.397,
+    "sent_score": -5.397,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.065,
+        "src_w": 1.0,
+        "final": -0.195
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2348,
+        "src_w": 1.0,
+        "final": -0.7045
+      }
+    ]
+  },
+  {
+    "id": "8b9c11c35a78d0134141b2f15c318413b98c11a7",
+    "ts": "2025-11-14T06:52:10+00:00",
+    "title": "中國發現上千噸超大金礦創紀錄 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZkV6OElxXzd2YkFRUVBITGFZenpaS3ZuTlRnQjRUUlpOaTlxTm5uV1doa0szX2NlOV9vLXE2X2pRMEJHdDhBME5XZXRONFZJb2hRQWpFNC1aQdIBX0FVX3lxTFBBRGlLZHB2UExzWmNUM0ZhbmM3M05fLVVUd2piLVNHc2REc0ZRTlV2bVNBSjZWeWFRWDBuR2NwY2U4OU9jWGJ3VXdRVzRpNHNrZGI2aC1Xbi10VndUbkNj?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "951c5a77fb6223ce9a64100217ca939172eee438",
+    "ts": "2025-11-14T06:53:19+00:00",
+    "title": "大陸發現千噸大型金礦床 創1949年以來紀錄 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2YzN0V0xJeTc5QjNsSWpKSXd5MUk3VUZBZTJxSElRQl9uRHo1Zk5DbFdKRGY2aGNBZERIT0dDSEo0SDNiUEVmS3lMUnBMM3Vs0gFWQVVfeXFMT3oxTG5WRl9sVGN2X1hJcVVOdEl1cHFqbVItbXVwZ09vQ01jYmxNRWRDZ3FSUXBUTnpTeTJoUk8zT1IyczE0eHN0MWdQbUJwY1lSYnhBM1E?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "3f797f1d73742762ae0525e09da7a44f165eed96",
+    "ts": "2025-11-14T07:08:48+00:00",
+    "title": "美股早盤／道瓊跌逾500點 但台積ADR與輝達跌幅迅速收斂... - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oY19fQk5QazQ3Qkg3ajU2WjVBLWlfbDlfcWlLRkdXdFc1ZzNhUUFHVW1hUFJQVFk4QTBVREM2cU1sSWRYUnFqM1dQWi0xc0Np0gFWQVVfeXFMT2VuaHlCQTgxTnhWbkhVS3JPc19rWnNoV1NFajFuVWRJRnNlcW5QcDVqN0J2NnFULXhEQm5uRjFTN3BndTJkWldzWFdpRUJkQXQ4TGhVMWc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7398125231266022,
+      "1435": -0.7398125231266022,
+      "1341": -0.7398125231266022,
+      "2025": -0.7398125231266022,
+      "1314": -0.7398125231266022,
+      "2368": -0.7398125231266022
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.4388,
+    "sent_score": -4.4388,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2466,
+        "src_w": 1.0,
+        "final": -0.7398
+      }
+    ]
+  },
+  {
+    "id": "d1eb4590d34d4ee13946e7898bf77e1c8e04d4a1",
+    "ts": "2025-11-14T07:10:04+00:00",
+    "title": "清算大海嘯再襲來！比特幣一度跌到半年新低 ETF狂洩近9億美元 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zVjNhbkpSeEo2RnQtNkMycVlYUVV5NEIwbzdMR0NUNzhyRG5La3ZuQldZbVBGMW5IRkpEcWhOaG1Ed0hDS3JWWXNTNWxfVVU?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ab152b903f9e70f86511d3314ce3b5c6c7be6dbd",
+    "ts": "2025-11-14T08:09:48+00:00",
+    "title": "WirForce《Final Fantasy》玩家社群之夜 《FF14》製作人吉田直樹跨海送上祝福 - 4Gamers",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb01velhVeU1CN2g4REFzMDlQQXZrMVVyU3VpVEhHYkNyMW1fRUY0MkpoMGF2NGRHc0M4Q1AzVXNIWE1YbHlPbHRtOXczRUFXd0FXUVVoLVdHa3JkbUN3MnRJcDBLZlNnM3djTXotLWFCTjZRTUVmRHRLUndKZ1pYc1NBTWYxYUhON1RxXzBZYV9YMDQ5?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "c35f1afc35167a7b4cf637ebb0b42b90746d1c23",
+    "ts": "2025-11-14T08:31:13+00:00",
+    "title": "黃仁勳頭痛了！美推法案「限制輝達晶片賣中國」 業界2大咖支持 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ydGhTdUFhc0FvRjdDOWR3dmdabDh3dk9WZDk5RkZqdXBxbXB5QW5LVGNrem9jZnYySGRkN1JFd0NQWk9EOTBnZkxWU0VqaThvNG9MdHhDc2xTVW5kNDJV0gFkQVVfeXFMUDZzZkRCWWJxT1AzN2dzQXcxc2djckJpNzNyWkZxVUNGY09CN0F1eF9xUlcwWDVGWW9ha3N1U25nNWhOaHlYRW5TWW44eUhkejhNWklLWlJhZmdMal9JTVZUYWpIcg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "558adb5865a6a38d4cc5981175740d166abdb863",
+    "ts": "2025-11-14T08:56:29+00:00",
+    "title": "鎧俠財報慘 記憶體鏈警戒 群聯、威剛受關注 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KVm1mSlJQRDEwdlVIdW05UXZOd0Nidy1aWlF3ZFl1dTFUbWFkUXp0V3hsS2pYOUU2cGNrVDBXYVU5YkY2WTNqcHNqaXJEQnFDTFZPOVFuWUlPZ9IBX0FVX3lxTE15aGhpNnpqUzJzUFBBeVNja0JHc1NwUGRxeDU5WFAyOEFaUERCNnRhblBITWJidzZkX3dxRnd0bm5FeWhmMnVLMDVqc0dTbTluaUhYdkkwV0x0dzNubzNR?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "aa47ccc9edbbdcd7854353941dabd22a9084ec6e",
+    "ts": "2025-11-14T08:59:58+00:00",
+    "title": "中國卡安世半導體晶片！傳歐洲車廠急尋「去中國化」零件 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UTGR1Mkg5Z01KcTljOVNWVHlkaWtlTEg1c3FjUlpaOG9IZ2c3bGdYSlNYeXM3TGljVDJObExIeGVWR0tQUFF0NXVCVTRlZjA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "521a151ee5cc41a2ea1e06b08d3261fedbe3f78b",
+    "ts": "2025-11-14T09:33:00+00:00",
+    "title": "iPhone暗藏「出軌留言區」！　大票過來人：抓到另一半偷吃 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90XzZHeGVHeXlhaVpXNmNHQ3VtdVhnV0NITGlpbTRnT2hNaGFmYjZ5cjhUYUs1YVVpMk9fcEpPWjBhektiZUk5VHNUTW13bHFycDJDdXlHSHZ3WXhXTnfSAWhBVV95cUxQZzktMldEYWZKLTlYYmdwU3R3VVp1TVBqeFVGbzVpcEpqaXFPUWc3cEpFdnBoR18zb19LbXFYcVkzdjk4NUdUTUlkSkxSaVNldzZYdld1d3lLOFdHR2k3UEM1VXJNNDBuRg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ec63f15ce331d2d3c8289aefc1c1b9b7562d73f5",
+    "ts": "2025-11-14T10:11:15+00:00",
+    "title": "供應鏈又一雷！中國停止對美國出口釔 恐衝擊航太與晶片產能 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SeXdhSUkzYUZPY0dVV0FPa3JiTjl1bHdrNlNjbWRVMVV3cFJ4RExPVktBWWJJdHJ1TWNURzdWdmJhdm9QbjVodGVidXlfR0E?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "8a23e1f300a64c9e41b4194effe493848322ac00",
+    "ts": "2025-11-14T10:41:29+00:00",
+    "title": "轉投資森崴能源踩雷拖累 正崴第3季虧13.8億 歷來最慘 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNWV9sNDNKcFExYlh0Q0d1bkZ2SlAwbjJtekI5QmthNEcyd0NkSjBubTFoQXFmRnJ2aGRzYXZVQ2NnbGY4QkRyVWFkR253SlRX0gFWQVVfeXFMTmwxTW0tbjlaMWxyQXEtdXhpeDZZa2t1T1FMb0wzLXNOSkNjWE9xTm1OcU5QZTMwOTFTTmpodEpDVWZzTnlELWdJVFdBM2JSa083d2pkS0E?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "6806"
+    ],
+    "per_company": {
+      "6806": -0.5402424931526184
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.5402,
+    "sent_score": -0.5402,
+    "detail": [
+      {
+        "alias": "森崴能源",
+        "codes": [
+          "6806"
+        ],
+        "method": "ml",
+        "ml_score": -0.1801,
+        "src_w": 1.0,
+        "final": -0.5402
+      }
+    ]
+  },
+  {
+    "id": "e0af1f21bfe412a89fea6e87a483de5c041e5bc3",
+    "ts": "2025-11-14T11:00:00+00:00",
+    "title": "AI催生晶圓代工新格局！先進製程產值年增31％、台積電2026毛利率衝6成 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3b0diSmc3WkNYTjlZUFB6M1A2eEVLaGt3MHFLV19oMkFYeklCNVpHbGloazRTU3hJd2xKTTZMZVZsWFYydDVzOEExdE1rR0dzY0ZEU0xiS3VyU3ZmUGY0?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "a461f347e12cd153b3a1d3f917d9adb82bf8671b",
+    "ts": "2025-11-14T11:00:00+00:00",
+    "title": "台股重挫中找亮點！老AI股重獲青睞緯創、大聯大、建準等15檔Q3 EPS創高逆勢吸金- 日報 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTSUdza3U1MkR3cHctUFdfX1V3NUF3ZE5ZWWl6WTlIOGIwSmJlY3QyQWZTRDVybk8wb25XRTN4dkg3OFJTVnk0NkdZbXd3SktJcW8tWFdsV2FMZzdIcmtn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.134148120880127,
+      "1435": -1.134148120880127,
+      "1341": -1.134148120880127,
+      "2025": -1.134148120880127,
+      "1314": -1.134148120880127,
+      "2368": -1.134148120880127
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 6.8046,
+    "sent_score": -6.8046,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.101,
+        "src_w": 1.0,
+        "final": -0.303
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.277,
+        "src_w": 1.0,
+        "final": -0.8311
+      }
+    ]
+  },
+  {
+    "id": "89836895625d116edd3bdd616caa13ca31c34e02",
+    "ts": "2025-11-14T11:00:00+00:00",
+    "title": "AI股急凍台股慘遭血洗後怎麼買？法人給答案：日月光、創見、南電...14 檔成避風港- 日報 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11bnQ4Q184eFBMdHJSQ21ERXBCVkFkLUFKaUJuLWZTMUo5Rk94WDl1NWpPN0FnRVVKblIxQTBPWFZheU45QTN1MFN5UmVyU0JjN2tsb0d3bi1xTDN2WnNZ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.10895812511444092,
+      "1435": -0.10895812511444092,
+      "1341": -0.10895812511444092,
+      "2025": -0.10895812511444092,
+      "1314": -0.10895812511444092,
+      "2368": -0.10895812511444092
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.654,
+    "sent_score": -0.654,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0182,
+        "src_w": 1.0,
+        "final": -0.0545
+      }
+    ]
+  },
+  {
+    "id": "8a46fc79e0838cf0ade542d8dfc9c685633e8d7c",
+    "ts": "2025-11-14T11:00:00+00:00",
+    "title": "供應短缺 三星記憶體晶片漲價 調漲幅度高達30％至60％ - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4LU9mVEplWXZmSU9qcVBzN2plS0FBWnNwMGthRmpINVJQXzMxaUNuTW1YOUdHNHBUbGVWcXdielY4UVpoaFJlcGM3ZDRCMHg0TjlxUHNOSlAxcUN4b0xV?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "8f53343155a919a5ea7c7a26682584f221a220a0",
+    "ts": "2025-11-14T11:00:00+00:00",
+    "title": "睡美人的三口仙氣：從併購看金融業轉型機遇- 日報 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZWlvRUxBQUZJRmpUOEpxSmJlOGpNMXprOWFjOG9Vc19MS2ZRemQ2eDRTa2pVN2IxUUNEMzZSblRqSVBHbkJ3aTdFRXJQc3czMldCcWdEWExoVDJjbEdv?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "449f716192bf7b3fda70f3f88b32d82efbeb7468",
+    "ts": "2025-11-14T12:00:53+00:00",
+    "title": "邊嘲邊買！蘋果「襪子手機袋」多款開售即告罄 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDN3U1QXkzeTUzM19yd1I5R3JBN3FVQ2hIUmkxTGVZZFZTX2RHQTRnV2U2dWhzeU41TGVnTU9EYnVwcEh5Nm5YOEtUSExpRVU?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "09e8adf428ee28279608bc10660abc371bb50239",
+    "ts": "2025-11-14T12:10:00+00:00",
+    "title": "台幣狂升 恐成壓垮傳產稻草 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUnRTYzVwLU54VHZEdmRZRmt6UkZyTjI4MVlxSmozX1dYMDNDcURWazdjSkxOVUl4MWFHdGRKVnNFT3hTb0RqT0FGNHlFa2pmMUpJdHRPOHZOaC1WbDRMN0NYODZERXF1aVZ0cTZrMUdwMGVLSEozZm5QSUZFS3JqYjVnLU51RE9ibU9lTXU2X1lsdkdOYjhjSTBqV0duWUFrSUxXWU42eWRXYzFYVXJuVHFnMDI5QU1CM2RmX2dmTzYzdFFsTjdULV9UQUp2WVFicDQ2d0RvU3VpX0dnNl85TzlDd08?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e5e629c0a8c93513a5e76afb4389ef0c6ceadb99",
+    "ts": "2025-11-14T12:41:53+00:00",
+    "title": "輝達加大供應鏈控制 明年推L10伺服器系統強勢掌握價值鏈 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05emNwUUhSZ2U4NVc0cVdtNWxLMjlXYU5kM09nTHpPRkdRSU5kQzRaOHpvdy1PQm13SXd4OXJvaElpSWlQeWk0WENYQWhweVE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "9a9ca3ed019f06c5b57dc895930ecae3261d296d",
+    "ts": "2025-11-14T12:52:17+00:00",
+    "title": "沒AI不BI！老牌績優股暴跌3成可以撿了？傳產龍頭連5年配逾5元息大咖投顧勸進：明年看賺1股本 - 上市櫃 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wbWl0LUtTMmJaY1FvcFp3Z1pLUnJnN0pHTVdRWGxFVkN0dERIdEgzRVBqZXpCZThpcm45bUJocWFweWlRb0dDZFFlMTF6dVR4dlFNd3RfY09vbUd4Y3dsYW51MGZCWHQ5T0E?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.779791921377182,
+      "1435": -0.779791921377182,
+      "1341": -0.779791921377182,
+      "2025": -0.779791921377182,
+      "1314": -0.779791921377182,
+      "2368": -0.779791921377182
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.6788,
+    "sent_score": -4.6788,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1012,
+        "src_w": 1.0,
+        "final": -0.3037
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1587,
+        "src_w": 1.0,
+        "final": -0.4761
+      }
+    ]
+  },
+  {
+    "id": "25c0ed2dd70b8ad9f0ed4b1b5d2826680915b398",
+    "ts": "2025-11-14T13:41:58+00:00",
+    "title": "美股收盤》美降息恐踩剎車？道瓊跌309點 台積電ADR彈近1％ - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WeWpBazRYandSTmRhZ243dzF6M3NZWG9iSWd2V1ByMGZvVGZ4alJidnl6QkMtaXp0VFhMMXRHU3A0QTU0VFY2Q2QyWnpaLU1BcTcyVlRpTlBlM1EyZnRn0gFkQVVfeXFMUGhOQnNOWmNnamFFd1laRHJ4TzJXWEl0cWJkNHdPcEFfOEZkTUZhZzZMQkg5SV9ETzVKR0NtLVZXNFBBbTFoaGNNTTlLY0tyX2NNek0xVU9JSzdTMzFvLVVJQ05FRA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.6376419961452484,
+      "1435": -0.6376419961452484,
+      "1341": -0.6376419961452484,
+      "2025": -0.6376419961452484,
+      "1314": -0.6376419961452484,
+      "2368": -0.6376419961452484
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.8256,
+    "sent_score": -3.8256,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2125,
+        "src_w": 1.0,
+        "final": -0.6376
+      }
+    ]
+  },
+  {
+    "id": "58a9b77f1ea739774373452783711edce63ef986",
+    "ts": "2025-11-14T13:44:15+00:00",
+    "title": "跌幅收斂！美股四大指數微幅震盪 台指期盤後漲86點 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQTjRJYmwyUWhKbEtTeXB1X2FuQjh6NC1NdUlhYUFib2VFaUZYWVdZYUg1Q2ZTSkZxQ2ozSlhGX29oWFdVa2NOYTM1UW5CQWo1ZEV5aEJlek94T180dDdwMkozbkpobzFPVUV2aU9qMVdGZngyRlpKRXFBbWd4SzByWFk5OGVpTzlQcFVXZkotTXBCOHJCdWRlb1EyaHNubW14YXpWME5aZ0xsV1BNVGhxc3NsWllqMk5hNDVWZHQtblRyZW5QT2dZSFNiZjdCcFNBc0hNQWZydTVlTGNtUXZyM2JUcEJSUC1sVlp6RU56SEk3RXlPVUtUMFFLdlI2c2Q2M2xIQk0wcExvOU5GNGJnTkt3SjVOVDBCODhaN01OMkZjOHBKMXJJQkF3anlIZ2ZOa1FoS1N6VWZNS0loUU45NDdCRWsxU3ZBZGFIYWxGakYzNEZIYjYyc3gwcHk?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.5034283697605133,
+      "1435": -0.5034283697605133,
+      "1341": -0.5034283697605133,
+      "2025": -0.5034283697605133,
+      "1314": -0.5034283697605133,
+      "2368": -0.5034283697605133
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.0204,
+    "sent_score": -3.0204,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1678,
+        "src_w": 1.0,
+        "final": -0.5034
+      }
+    ]
+  },
+  {
+    "id": "e2e21a302eacf267b2d420f973c56f388a83c74e",
+    "ts": "2025-11-14T13:44:56+00:00",
+    "title": "黃仁勳頭痛了！美推法案「限制輝達晶片賣中國」 業界2大咖支持 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNQzlFUWROb05nWGdRcWhFbGFuYnU3eklWVGV0OXZJNmwtUFRoa3B2cTZacmNXQXpqYlBwTHVlMm5qdlFxcUZPSGhNNUNxdVBGR3NsX0x3N3ROaWhqaDdONXQydG1ObFNPQUxJTlBKV2ctbEp0ZGd4d0xtU0xWYklkamRGRWNyZk9MMTRBQUNhejZEdVNua3VmQXZ2Y0dEaUdKTVZibVI0b2JscW04UkFfdDZwM0JaV2FBLS12ZU5aMk55T29peFpDRXlLc0tmQjZEek9QOWhLZVRhcTZNV1kxTTdvOE5mcFFOMnp1YjBieUdlOFd4Uk1kRm5kNXk0S1I1VWppZldjTjg3NVBuVnh1a2JlaUlmYVM0cm9EN0RPZjF4MGdzbXc0SndUejdzWjN2SnhwVF9TWVhwaUd4V1VsMVpKLVNZQWZULVlRMDc3bjVYc1J4TzYxV2RQdk9PUElFYVpXMzJ2VUE5Qkd0bTdZMWVtdTFQQndvWW0wZHFwTFFzVXNo?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "fc6c235c4fce2b57225f660102523e30656d35bc",
+    "ts": "2025-11-14T14:07:08+00:00",
+    "title": "《費加羅報》評“安世半導體爭奪戰”：中國一記反手給歐洲上了堂工業課 - RFI",
+    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPYUhkY21xNUo5WGhTWUkxSWZaYXhPWkpCSVZMT2dESW5KUHhLdWlBeUp4SnRDOFBXZExNd0JuLWFYMHJEUmU5RWZ6amlOa0J1WDl5ZHNSYlI1ZVZ5UE44OXh6WXVXeHdaZTNXMU5pMm51U1I4SWpkRlVsZUdseF8wVmNXWnYydGhxTEprb01FY2dPclJzSG9taEdXUG5MQkRfd3ZHZ3AwTV9FdUpIUEJZUjZ2ak1pZ2JibDR2UjFVZTRSV2RDbWMxWlg0OGVYVUhYbk1ZVHBuclRlNUNBR1BqRW1TLWZGMjdsUUU3aGF0RjBLNkl5TXZ4R1FlaDJoaUpKckZ1R1dqVjkxT2trbng4LXBMcjdXVDVNUWlwVlAyenVmQ2xoV1NqVFdCTGt0LWxxb0VHY3JCbVJ1WmpWWmQ2TGJRR19XN05DOWZ5eEU3ekZCb29uWWdkV195MmNDdDNIQ2RfTjdXNTU1MndKWGViRU9hNmE2MmgyZXpzZzVMVklGZDZKSUZadTdWNzdUVFotbUpBVEczczBBNHBBREVjODV4WWZaUWY0S3hGdlNoRnE3cHM?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "65ffd54e591cb9ff1c6969f4a18e7c58d4611ad7",
+    "ts": "2025-11-14T14:41:15+00:00",
+    "title": "〈美股盤後〉9月非農就業報告下周發布 輝達黑翻紅 道瓊標普周線收紅 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VNTQ1TEhQZkNDTF9YemVSTXJvay1nOE5DMXRIc2t6MW9JYW5pQWhIWTdQN0FSNkMwblZLMHQ0RENEVG9jY2NOR01YQVJRYjg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7217806577682495,
+      "1435": -0.7217806577682495,
+      "1341": -0.7217806577682495,
+      "2025": -0.7217806577682495,
+      "1314": -0.7217806577682495,
+      "2368": -0.7217806577682495
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.3308,
+    "sent_score": -4.3308,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2406,
+        "src_w": 1.0,
+        "final": -0.7218
+      }
+    ]
+  },
+  {
+    "id": "508a30ee92b0b1eaf17cc1ae5e8eb4c761f5e46a",
+    "ts": "2025-11-14T14:53:12+00:00",
+    "title": "〈美股13F報告〉波克夏Q3新建倉Alphabet 持續減碼蘋果15% - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95VHFxbkZ5WmNuUXZmVmpxZ3JFREY4dXB1R0ZJU2hkMjVkZGVJTmFFT1c3MEVuLVFndVpnTkJnVnB3dkt0TW1JVC1JSlBLTGM?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7344229817390442,
+      "1435": -0.7344229817390442,
+      "1341": -0.7344229817390442,
+      "2025": -0.7344229817390442,
+      "1314": -0.7344229817390442,
+      "2368": -0.7344229817390442
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.4064,
+    "sent_score": -4.4064,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2448,
+        "src_w": 1.0,
+        "final": -0.7344
+      }
+    ]
+  },
+  {
+    "id": "0f9b9e4bb2345c17d1de026cdd3ed52907027fdf",
+    "ts": "2025-11-14T14:53:25+00:00",
+    "title": "熱錢流出 台幣貶破31.1 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJWbWsxUkp0ZVdmcmdIR29qeTR1ajZHdWJTUkY2STVxVGZrTTI3RllNeDVET2V3Szg0Nk5GeF93OXg1eWFWYk5ZQ3hFbm9RRHdFOWVOM0otdGNQZWtxbnFPMTdfc3MyRGt1UGtEbVFtcUtHTndHT2VNV0Zwa2RZTndqLWJUaWc5Z1VDWHVka3o4M21ZQ0RXeHh5NW1jOHBneTF6TnhQRVdDNG9oY2hnZ3o3Z2NDSndmSFE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "06671558ae2adc67adebfb628c8173d67c8aeb68",
+    "ts": "2025-11-14T15:00:00+00:00",
+    "title": "0050定期定額戶數破60萬戶！外資再殺72.8億八大公股連15天幫回血 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTDdMQXRPQTd6VTFfQ19lZUN6WkNFRUNramxGaHIzeElaMC1oaXNSMW9UQzZSWk03WU14RlhiZGFwQXl6UTRkVTdRaGxPQ1dWUFBJODJTVFduWmZQRDdDOHBBYkZGZTc1Qm1odmoxbGdUazRaWFF1aW5ldEF3ZDlyS1ZWS1lKVlZ5T3M4NVNOWmVOQlkzNVZBRUxXQ2FDa2ZLalRqNW9mWS01V0RLYVJ3ZjluREo3WHFmVzh3c18zWGlNVjd3cVJUU2x1VDBSYUJKWGlUNFZlQXp5TVlmQ2hOaGJ2VHR1STNQbEJzVlNGTXZXSjdKR2hVa29kTVJSaW1SYk5GNmo0WVB6THZETUR0N2RHSUl6NVRMMzJrOTBXblhiRWFvSG1MdlNEbkVoTlFubmFvalktVkktT21lZ1hYNWZGUGVmdllkc1hUbXRCZm9PTzJIVklpck9DVkgxSTY2emZKZ2dBRlhUaXJkUExoQ1J1eDhZWFVuV2w1NC1aR2xfUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.4296744167804718,
+      "1435": -0.4296744167804718,
+      "1341": -0.4296744167804718,
+      "2025": -0.4296744167804718,
+      "1314": -0.4296744167804718,
+      "2368": -0.4296744167804718
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 2.5782,
+    "sent_score": -2.5782,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1432,
+        "src_w": 1.0,
+        "final": -0.4297
+      }
+    ]
+  },
+  {
+    "id": "9d3f7f7cff5603155d9023752ab415f00243e8f8",
+    "ts": "2025-11-14T15:00:33+00:00",
+    "title": "美國著手蘋果新調查 Apple Watch面臨新禁令風暴 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWm9rVHdndU0xUE9lNDFRMWF3aUZ1N2pvcWtvU3pNT0hxZERZSnh3VkxhNlhOOWY2QWNDel9GS3NPelVpc0RSZEtKbDNLNUk?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "9fa19e8d57d87ece7b406e019465f61a757befb0",
+    "ts": "2025-11-14T15:03:12+00:00",
+    "title": "〈貴金屬盤後〉 Fed官員對12月降息潑冷水 黃金大跌3% - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBY3FvU1A1a0Jld1Jta0dWMUlFbTRfSkpnUEFXNDlOckxKNW1xX3BtWHFEeGMzMEdzeDcxV2I4WkRrbHNUUDN1QzZXclFPUkE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "d88903e9ed57c49c3e38be3cf97d9f6d6713b77e",
+    "ts": "2025-11-14T15:27:18+00:00",
+    "title": "連29年配息160元全年估賺1股本這家龍頭廠跌破4／9最低價「投資價值浮現了？」 內行揭關鍵- 上市櫃 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XNEVkMk9hZEhCWjd5X0hsN1pIRURJSy0xWEFRWHJpWnNDdVZ6ZmlselR1NzhuX1lzQnZuNUpDdGpDM3Mxd0o5UkEtYzhuUVFzbWhFejdiMEdMeWlabUwwbVAyMlJHQWc5dnc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7342417538166046,
+      "1435": -0.7342417538166046,
+      "1341": -0.7342417538166046,
+      "2025": -0.7342417538166046,
+      "1314": -0.7342417538166046,
+      "2368": -0.7342417538166046
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.4052,
+    "sent_score": -4.4052,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2447,
+        "src_w": 1.0,
+        "final": -0.7342
+      }
+    ]
+  },
+  {
+    "id": "13fef346dd506d0e30f45fa647cfbcd5eac56c19",
+    "ts": "2025-11-14T15:30:34+00:00",
+    "title": "遲到總比不到好！9月非農就業報告下週公布 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3TWpLUmp0Y3YtNEc5TXU5Z296T05oVGZOTV9qX0hUR2ppT0N6UkpEY25odnhNOHk4NlZRQWFVT0FzaXJlMXgyelgydGJGSEU?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "db8bc4f2b1f37ae364d51812b3d9fc1feac521e1",
+    "ts": "2025-11-14T15:56:06+00:00",
+    "title": "LINE Pay 電子支付即將推出？多家銀行 App 已出現「連加支付」轉帳選項 - 蘋果仁",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wTHQ4WENZdG5xXzYtaEhTRFFmRXV0akFNcWR5SEI3eGdJWENzekZPR3dPTDdjRWNSRDZWWFRleGxidlhyQ1RmWEtpeTI?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "166a09b6b39cf69d5b1845d17b383c7010932ac9",
+    "ts": "2025-11-14T16:01:49+00:00",
+    "title": "看懂鴻華沒說的盤算！納智捷純電車 n⁷ 銷量不如預期，兩方合作困局待解 - TechNews 科技新報",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcXJ3VGJtd0dZM01NQW13cENlWlFfNXRnNHlTUXVIblRxeGxJM1FQWG5sWTFtMF82WHJIeVh6ZUNjblM3RGpUN0g2WG04bS1kUW1WS3JTSnVVeWkxUHNyaDM0UUpub3lYRjFscWF6cFVLQQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "57270a9b792d679064c6b78957a939b91b8077ad",
+    "ts": "2025-11-14T16:13:05+00:00",
+    "title": "美台匯率聯合聲明 賴士葆轟：賴總統說謊 恐難再調控穩定 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tWV9BbER0c0FVb0NpbG1fR29mZ18waHp2ellwOHR5SEVTTFVYZkluWTlJWWd1RWswaHNGYUN5djBnM0VSTVktT3l5amc0ajc00gFWQVVfeXFMUEhzaWg0V2hEMGMwelVKMjQ0N2dEQkxJOE5USFdWMk1lOGVrenJKU0I0R2dHOHZheW1vRHVhNllSRTN0ZHVpTXlCVzE1T05ocmFEdUdpaGc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "67c1180ce06c9e890be6ae7938aa7f699cf2c55a",
+    "ts": "2025-11-14T16:19:50+00:00",
+    "title": "Line Pay一卡通分家》LINE Pay可以轉帳了 「連加支付」代號「387 」 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Um83ZGFpcnRKRjMwUllPZ0pQUUNlRFN3WnBwMTFwclN3Vk82NFhRNEZDTkVkMERNMUpleGIweG04Smc0Tm1zTkVkUmw4SHpWckpZM2x5TzBYX1Jpdjhz0gFkQVVfeXFMTmtJNVJ0aE9nRl9yOUpYd25sQzhPS3Ayc0xCUnpjSHZqSEltYmhGUFJFYlNBN1BoOEZSNVdCZW41XzVqaDdoeE5OSVN2dWFWcUxBR2dNZ3dsNXRoRTdYRnc1QVRmZg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ecce5d429a9082c16751e54df661efeba8519705",
+    "ts": "2025-11-14T16:36:14+00:00",
+    "title": "美12月降息恐無望引發拋售潮 黃金重挫3％ - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMWmEtM29BT2tOSkZiel8xSllTMExjcmZVSlFVU1ZkeWt2VV9yU1dNZk1vY25CaU56OXlnWFRfSUZGZlBkLW1ldjQ3ZXpuZmRaVVpyUnFIYXZQLVp6Ti1N0gFkQVVfeXFMTXlKVmtUVW1IeU9qMjJBTDdOb01FVTNSNHJWRmVobEpPaTl6dkhqeGlyNy1pU2RaeUV3S1RFVWZHcGJZVWZSLU5wVVpMWFVkUTk3MmJzRjFQUXJsMFVIRmZ4T1UwNg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "5155c028f5829bcd9a662a48cab1394d1ac20c9d",
+    "ts": "2025-11-14T16:37:18+00:00",
+    "title": "鴻海400元目標價輸慘了！這檔隱藏版老AI喊上800元法人報告全剖析EPS、股利政策3表掌握- 上市櫃 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PalFJVHVQUDlEOFFxUDBoQlloUDhLSVZJeEY1QUN0dTVfRncwelFPd1hwVlNCYjFkaF9FdlVZdHZWajZSekl4eDVaVDB3dDBPbDBSenUxUDY5VVM1dGZPNTVOaDNqazBrWHc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.8290392458438873,
+      "1435": -0.8290392458438873,
+      "1341": -0.8290392458438873,
+      "2025": -0.8290392458438873,
+      "1314": -0.8290392458438873,
+      "2368": -0.8290392458438873
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.974,
+    "sent_score": -4.974,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2763,
+        "src_w": 1.0,
+        "final": -0.829
+      }
+    ]
+  },
+  {
+    "id": "16325a10c9fce664ad502e44ab47160a2119feb5",
+    "ts": "2025-11-14T16:57:00+00:00",
+    "title": "今年記憶體、明年換PCB、CCL漲價？Rubin推動六線齊發超級循環概念股大點名- 產業 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pQkcwN0R0N09mWm5BUmFtUnVKS0F6c0FzWkdjZkNxZDJoYnE0eUc0Y1RkZUNQdUlTVXpYQXRlamMyaFlqWGdsbl9kWkdXOTN5UkVKeVppQkJ1SlhOc2Nn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.56527179479599,
+      "1435": -0.56527179479599,
+      "1341": -0.56527179479599,
+      "2025": -0.56527179479599,
+      "1314": -0.56527179479599,
+      "2368": -0.56527179479599
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.3918,
+    "sent_score": -3.3918,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1884,
+        "src_w": 1.0,
+        "final": -0.5653
+      }
+    ]
+  },
+  {
+    "id": "ae5e368f032732ecd406bbfdabe7b455a563f6e1",
+    "ts": "2025-11-14T17:03:00+00:00",
+    "title": "【周焦點】國產油電休旅上市　6代TOYOTA RAV4售價出爐　三菱國產7人座 - ETtoday車雲",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85RUI3aGpfYS1IVjRjcXJSc0Fja0pFcUZCWWNxSkx3a2Vpc3Z2VC1sU2dmUEtpeFl4ekdpZmQ5Y2RfQ2hLeVlGY09YdUdnN1XSAWtBVV95cUxPak4zVTJCRXJJTm43aEFIalpFb2MzMHZVcENxdVlVNkpDSHNNYjNCVjdCYmdPWW52em12cXZnOFVGenF3S3F0bnFvUGJkci1lMzhXNi1GRkkwcGIwcXVWQ0xmRVVwSnpQLWJIUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "608d205654200fcea63c902bf548a4acd9e3ef52",
+    "ts": "2025-11-14T17:07:02+00:00",
+    "title": "美股靠「他」翻牌？ 道瓊下跌309點、台積電ADR漲近1％ - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPODVMclZfalNaQkQ0bjB3by12NnUzSW13VnlKOXBiQmJQaVpHcGJweWJwd2RrTVg3UDM1YWI4MEs4OVhWbWVkUXRjV0xEMDM1dUdQcmdTeTVlQ090dVJYX0tuTGF4S0ZLMzZ6TVFjWGlXb3RvQ28tWi1WTHJUT2J3aDA0SWdiM1dha01heFNJMHdIR05BR0FwSUZZamRmMVdpbnBmU3RwcXRGZmZUeVJodXc2MXdGMkZESmRNa1Jlb29sRlZOS0I4RlhpaS1MRUxRaTlVOWVYNm9YNkE3bkF0dkF0aWVIeUpzZ1RNRW5MY0xRbGFyUjM0aThVQlZuQndkczhHbTF3RGFGckJwUTBMdlJWbThBWE1mc3FuRl9MWVBEUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.07694149017333984,
+      "1435": -0.07694149017333984,
+      "1341": -0.07694149017333984,
+      "2025": -0.07694149017333984,
+      "1314": -0.07694149017333984,
+      "2368": -0.07694149017333984
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 0.4614,
+    "sent_score": -0.4614,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0256,
+        "src_w": 1.0,
+        "final": -0.0769
+      }
+    ]
+  },
+  {
+    "id": "2cfcfef387f027a6e7fd2076a5303f6f8cd0fd9e",
+    "ts": "2025-11-14T17:11:45+00:00",
+    "title": "BTC 下跌至 94K，微策略賣比特幣？Saylor：常規回撤是正常 - 鏈新聞 ABMedia",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54QWtkTzhoTHN4ZmN4dkc4eFpxRS10bTczUzBQclZtMDA3YXFiV3RISzVxQ3ZTTVdmNGs1NEJyc0p3TjNhWTNrZ2xuSHFiX0RfZEl2T3dLaUx3VVZURXJNNXJ6OEhScGs?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "301ced6efb04cee523da42c387118e07bc2e9652",
+    "ts": "2025-11-14T17:15:00+00:00",
+    "title": "蘋果「一塊布8千元」全球搶光！淘寶秒上架山寨貨只要250元 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjTXdGUllYUDBCbVlBVzhtTURHSV9pQk1TaFpUbFBFbDl1cDR0cnhtbUpZMUVfV2pHS29jVW85OGdXVGw0WHNn0gFMQVVfeXFMTjF5UDhFZ19ZNDZ1dVNhcHFUSWpFNG8yM2VRSzQ3ZC1oU19HTGFUVDdtc200d000bktEOGw2QkkyUFNPME1NakVtUW16aQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "7b0b12047b19dce3a52c96db9a957b94a083ff4e",
+    "ts": "2025-11-14T17:47:00+00:00",
+    "title": "行動電源大廠又宣布召回了！恐有起火風險、台灣標檢局也發警告 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tU1NmbS00b2N4ajBzVDB1SzlUNktiaXBIc19udDRCQzNudmxIQ050WFlmdlV3OXh3T2pBTnNfcDhLMDFBVG8w0gFMQVVfeXFMUFJCZ085NWlpQmxETHNjRnB5UzJjZFZmNHRlV0gxUUtXWHVKNGE4eU51azg1TmN0cE0xTFlYMndZd2hGYm1hZWhObVhXQg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "56494341420a90c0a44f1f9d00038b9f79b19267",
+    "ts": "2025-11-14T17:49:25+00:00",
+    "title": "週末咖啡買一送一！7-11美式33元、寄杯6折　全家拿鐵19元多一杯 - NOWnews今日新聞",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PNVctWnV4eTFvNVlMbUNiTUVoT1RlS0JCZi1mbnFpOHY2NGN1MzdfUGFod3pvby1WN0Z2cW9SMFRxQVdTX0RReHh0NnHSAVJBVV95cUxPNzRHTjAtQnVoNG1yODdNN0h2MXl1d0NiVXcyb0FQUWwzZGVtTGczOUF0b3RteXpCcGxLUmRjR0p2U2VOWmZ5QkoxOVMyR2owQVRn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "0f2eccfbe6432e14ca8a7eacef71843ee63e0bdb",
+    "ts": "2025-11-14T17:53:29+00:00",
+    "title": "央行喊沒操縱匯率，市場反應超直接！他回顧新台幣暴升9%：台灣錢多但人民無感| 李瑋萱 | 新聞 - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9teWZaQ2Nld3J5dkNBSF9PRnYwT2NOT1g1a3o5eWs1QU5XWWxkdzhJZTRkeXg3OGZlZmhRZ0Q3eGJZT3cxa05KUEF0S3FkQQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "93783fb1c098c983cf925f9979196bcf25ad69c6",
+    "ts": "2025-11-14T17:54:27+00:00",
+    "title": "蘋果聯名三宅一生魅力難擋？iPhone Pocket被酸醜 照樣賣到缺貨 - 聯合新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OMXRPUlAyaVBPTDJsdlBUdXhzcndMajJSUGVRb0VFTVhvV2hhUGhhWEFNQTh4QlJObEw0WEZBZ0I1Y0NHaEswbHVwR1lvMjhf0gFWQVVfeXFMTlN6UGRRRVR2VXZqRzRNVVBVSUNoUFpIaGxIenZ3bVZaalRRRmpYZDlvdzRBWUszdXFNWWdLRUZuTTRMYTNYNmJkZlBFYWZtRURoNlFoZEE?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "016b3fa6277290dfb8e3a147f77b274e37a2c1e2",
+    "ts": "2025-11-14T18:02:00+00:00",
+    "title": "Line Pay一卡通分家》700萬用戶僅260萬下載 一卡通電支恐雪崩？ - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yV0xqOWRYdE9CMVhDNThNLWRyVm1KZU5EbGJCSGNQTWFScUZ5aWNtbmZyMWdpbkZtT3dyamxGUmViSGJlZGswMnh4UEJieXMwUlo0SEtUck5aWFQ4OVFN0gFkQVVfeXFMTjU4QUszSjdEczNZcXA4bnRLUG1STzVRY0dhTlhhR2ZQUWdOWWxsSEVpR3loZ21kdE1jY3NnckN1RUJfWlBYR052VEFqTzhxNzZQbkNhYnAxcU5BMC1JNXJiLXZPbQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "68d8d1be9887ea8e7576e98b341f8ebaa7ca882e",
+    "ts": "2025-11-14T18:10:00+00:00",
+    "title": "快充真的超傷電池？iPhone、Android手機半年實測揭曉真相 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ia3RFbExiMklYcHNUdHNrcGdBbnU2NmQ2VDlQWTRDWU5PYzVSdmNKaXB0b1NlYmtXb2cwX2lQVmNiWWY1VE9j0gFMQVVfeXFMUEhxVENxUDdHRU42ZjR2dkhjZ1ViV2Q3S0dWTEJkaF9Mekt0OXp3UUxZcThCMnVCak1jVlRqdi1oakxDam1rU2NMR2NUYg?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "20edd9526f2d97e3ec7a8cd85ef7a89697fcb0dc",
+    "ts": "2025-11-14T18:10:30+00:00",
+    "title": "鴻海400元目標價輸慘了！這檔隱藏版老AI喊上800元法人報告全剖析EPS、股利政策3表掌握- 財經 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmX2lXY3prYnNvOUhlLWJudWY4TXE5dm1xSHdGMVlEQzBMa1RnS0tvbmRKZFUyM0cxNTFYMTRHUTNIUWF6emVTUEZKaTNva1ZRZk9GVDUyc0lrVml1aGNESW04eWhkcVcxLWtQY2J3?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.9181976616382599,
+      "1435": -0.9181976616382599,
+      "1341": -0.9181976616382599,
+      "2025": -0.9181976616382599,
+      "1314": -0.9181976616382599,
+      "2368": -0.9181976616382599
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 5.5092,
+    "sent_score": -5.5092,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.3061,
+        "src_w": 1.0,
+        "final": -0.9182
+      }
+    ]
+  },
+  {
+    "id": "363669b0eb5b4922ad02c228429e5ff15788de0c",
+    "ts": "2025-11-14T18:15:46+00:00",
+    "title": "「先別放空記憶體！」前政府基金操盤手看好缺貨潮：「他們」大買行情未結束 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNLVBDdXFwY0VMQXlpTllINWgzWGRRTS12U0t4NTNLbjFDYS1uUmFMcG1ES3VXd0xrVmRzZzRtRmtzUDB5R1VEcUh4NmtSdmFLRDdteFBNSDl5TkJwWjFvUXRFaVhzUWl2UUZXM2lrWjgyV3QtNHBCdE5yN19yTFBHOHB6Nmh0RHppczJVaGg5dVJ1QU5JdXpSTkxJYkJENm5FY1YxeGVpemxmYnZpdV9BYkxoWFl0Wm5qMEh5NU9ocjhUNjgzOXpzRzRjRnNDUkFjSGMtWG93bjdlSVN1RjlhY1l2WUdab3N4M194eHlOV1hnMkRrbWd4cktsdXNyR3VmaENwZkM1b1J6a3VWUVg3UUZUQ3d5T0Q3RzAxemtsYWIxMzd2d25kV08za3JZYW5taUU2V1dUaEpPS2NkMkw5RFJfU2I2cFdqd1JVdGxsS3o2VVVjdTRYLUk2MWstQTZiQ3Y0UV91OEJRam1iYjVqWk1zTFFKdHdReVpGcGxTaW9Sak9XT3p3emkxQVVJWUtCenhxY2Y2XzNLWlJmWk9nV1RMVWQ4Y3U2Mkc3emFhcU1ISEk?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "b526ce8bc7dcd1da4e1de66c0f0273a363c2dd5b",
+    "ts": "2025-11-14T18:31:00+00:00",
+    "title": "蘋果高層近十年最大變動！二號人物Jeff Williams正式退休 - 自由電子報3C科技",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JNl9ya1JobGJZWnp2a3htUW1zaVhXR2tESlZMMktIOWxDdXg4RXlLald3NDlhcEZ4QkxPZHlUM0JURDZON1hZ0gFMQVVfeXFMTm1fV1dDaGoyUGUzd0lDQ1VTVFN2NjRzejJjV3N6emk2ZjRxM1NhLXE5ZVYyckZxSEtXdF8ySk5hOWJPLWVDanVqMTNHQw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "14e8193af8bc2cae2968b561351295b4a2fb974c",
+    "ts": "2025-11-14T18:35:42+00:00",
+    "title": "鴻海400元目標價輸慘了！這檔隱藏版老AI喊上800元 法人報告全剖析 EPS、股利政策3表掌握 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOcVg3QjA2TEhjODFSTkV5aTc3ZXo4eTFKaVJFX0xhOUxmQlFMa2o1dkkwTUxqZjA0MmhRVDllUkFSY2lWQ0hWTFBXa2o5b2praVBjTUVDZzhneUlZMmI2VEZZRmh5ME9vd2JnR1NMVWlQTXQxSlNwQ2tvZnRQOUptSktHOVVkOUxSal9HQVBfVGtXQkV3SnJxaHZVZWt0VVdzYkdod0FTcFgzeUNmWjJXcHF5dGQ1dGltSGhOSklSS0dWUTMxWmowYjF6c2tKZlVVMUFreDIxSUpHNmdfOGYxY1FJTThFR1pNV0p6bkVKUG5sZ2oyUkpNeWpNRTFIQmZoUzYyanByQjZsMHBRRTJDclpHa2lWd292M1RxcnhvcTJuSXhOZ2xaMENsM1ZMVks2WmhuaTlhV3ptd0lnOGxTeVpBWC1OM2tqa3V3alF6aTR1dERCR2Flak5BUFFvaVdISTF1VE9uN1haTWx1QkZZWHNQZjVfYzVmSFNRR1dIMFlyMVkyTWpGUHBGaUt6NzU2aV9uWjVBcHNVYmNiY1dsTndOU3lXUzNYVkxodjhlMGFRTU8yUWlPRmJyUFM0R0ZoX1pwUVJsRXJ3Ymxjd3l2LWZ3aTFoZThlaVRVSGppT0s1NzMzUG0zdDB5S1lWX2Zx?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7413983345031738,
+      "1435": -0.7413983345031738,
+      "1341": -0.7413983345031738,
+      "2025": -0.7413983345031738,
+      "1314": -0.7413983345031738,
+      "2368": -0.7413983345031738
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.4484,
+    "sent_score": -4.4484,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2471,
+        "src_w": 1.0,
+        "final": -0.7414
+      }
+    ]
+  },
+  {
+    "id": "7d4d4649ba3f0431e9d76d5ca5146997fa94ef17",
+    "ts": "2025-11-14T18:35:48+00:00",
+    "title": "母親不會英文卻親自教他！黃仁勳曝成功關鍵：「這精神」塑造了輝達 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQRnpWdzJIV0FTaEJRU0NkeHVDbmpJNVc3TVNDcERLdlBoOGpST2JQeVNGN29nV3pyR1JWU0I5SERCQkJ4WmVRQ25XOWltcTlJWEtBQXNEUURPSW1OQW9OMktudkdZY2laa2Y3NHJZT3JIX3k2R3oyWEZIUExrMGpxWXlRQXktR19ZOUVGWkJVNnpvcXptWHk4SmJtdy1ka21LcXFvTnRhZWw3V2Jhcl9nVGpodThQRUl1UHVIY0hvU09rWGVuTzMzaktfRkNuMmJRek15N2ZQQzN5RndqNGxPTWRvY3IzeldaTWt2ZUhXcC1kR290RjNTdExHUTk1UFdCM3hSUXRpejY5TVNGZXJjazR6VWNlVHRjTV9hYlJxZ1BIMlF6RUUtRG5WX2NPejhCdHhsZkM0Mm9QUHlsdVIybVRRYlRFYnVFQTdUcjVaQWNMWVg4TGpjVC1Ja1BjNHRDSU5WRnFTNXRDaktqOUEyZ1RvaFhpZThfQUcwRThVNFNOWjAwUVBrQ2dueEZyRXhvUnU1Yks0OEFjazQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "d222ef6a57122f5fbd556ddb59d6d8d79e0ebe12",
+    "ts": "2025-11-14T18:39:10+00:00",
+    "title": "非洲豬瘟導致廚餘囤積 永豐餘一招解決！ - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPamRaSE5PT0RMZ0tHbTl2Zm5NalRkMGItLTFIYmk0S3hsSFhEXzAxMktKUzVVRUJZNUlZaWtaNlhXd0hWcTZsSkpNaXZ2S2FHZGFEamFEdElyMTE1RS04T3ZkWEIxNS1qdldia0hpLTJMU0k5Wlkta3dtSFJsRk9KMVhkUTJ1a1QxaEYzVWY4ekZ1TVM2Yy01TlZUMjRnUWtrbF9GVUtmOEY4cDVLQW8xSjNXb3JyVmlzekRuRjRHMmpHcjBqdkJPNml3WUhpMG1wMEJTSllKMmtBUV9Tbzd3MlhlWVc0aWh3RGJvbTlXV1Jsc0hxdVlwUjVEX3RBVGtPblpkMHZ3NldGVm4zWjFKd2NucTZTQQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "311902d4b4632cc752660b9a38c46e425cbdbe50",
+    "ts": "2025-11-14T18:57:13+00:00",
+    "title": "前所未見！中國投資雪崩 創疫情以來最慘表現 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPSGs4TGsxa3BqNW9xLWktN3YtN3dGcGJzaUkxVnVhNUhvTFlxVktvMnpGMTZWMVFqb1pJekZ0bW5IUUtuSlRGT29BbkVPSHBkT3UxODFvVDRqS1NCTE9J0gFkQVVfeXFMTXZ4d3c1aHpobGtHUFdUSldoZEhxWFowTm93MFFhXzNUN3BnT1B2YXNJaWlKdXozYktvOGV5aUVBWkNZQnV1ajE1MEFLRFoyQTlPZEVFd3BTcWpKeFFwRTYtX25wWQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e66a16932e235788b38c432920e821af4d86a0fc",
+    "ts": "2025-11-14T19:16:33+00:00",
+    "title": "網通天龍們全面噴發！智邦單季EPS14元震撼業界、「這檔」3.42 元緊追 多檔從虧轉盈狂翻身 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOUUU3aWJJX0twQVVCNzZ2MnlCVng2NjhqTzhRSjMzZG81d2pod2lHWDlnV2h0Rkt4UzZpQ3ZlV3NMbk9JWUxDN2dkUzYwZzVDcXBfYldZX0Y3blhpMlhyS0J0TkFGOUpPdDQ4cXJiRk9obVhjeFZpTjVSRmpsbll0OGRvcXRTWnlVUlRJRWlBU1dZVFBqUmh2RHo5RXM1WEhxNmJYb255cTN0YkpyZzhLZUhfWFVzb0s2bHJ6Q2duLW9ZM19sRzFUUkZUZ0xZQ0V2RkxLSEgtQWVscEVlRS1EVVJ5ZnV3QUVOQzFxY1JkYjNuQ3piWU5QUElBZmRIVXlublloRDExcllUVVhXS2hTMnVaV09WMTdBcFlsWld3QUgzSkw3ZlVaZDUxcHFNUW1WcVMtSk9JYnkybUZPTUlUYTd1WGpsNDliejhvekJxZVRIdUpDekVGU2RwTQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "942a6f40389f1abbb08558f851f0005f37a0e2b6",
+    "ts": "2025-11-14T19:32:21+00:00",
+    "title": "南亞科、華邦電、威剛、群聯...記憶體股人踩人全村的希望來了！這檔DRAM股大摩列首選：目標價220→325 股價翻紅「華爾街最高」 - 上市櫃 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNDg5TTAxTE1OOVdTcVBkeW5MRVY2VUVYT0k1Z1ozZkI5N3B1SDdLVEdERmVvZllaY1VrQ053Q01pS1BfbVM0SW80U0I2WnE2a2ZrZzRMd2JjcG9IM0RaUHFCRTZmMnNiNGc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.0692578852176666,
+      "1435": -1.0692578852176666,
+      "1341": -1.0692578852176666,
+      "2025": -1.0692578852176666,
+      "1314": -1.0692578852176666,
+      "2368": -1.0692578852176666
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 6.4152,
+    "sent_score": -6.4152,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      }
+    ]
+  },
+  {
+    "id": "746ef08c85b7a14e0d679de116292ae1051a88c0",
+    "ts": "2025-11-14T19:32:21+00:00",
+    "title": "南亞科、華邦電、威剛、群聯...記憶體人踩人全村的希望來了！這檔DRAM股大摩列首選：目標價220→325 股價翻紅「華爾街最高」 - 上市櫃 - 旺得富理財網",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNDg5TTAxTE1OOVdTcVBkeW5MRVY2VUVYT0k1Z1ozZkI5N3B1SDdLVEdERmVvZllaY1VrQ053Q01pS1BfbVM0SW80U0I2WnE2a2ZrZzRMd2JjcG9IM0RaUHFCRTZmMnNiNGc?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.6482144594192505,
+      "1435": -0.6482144594192505,
+      "1341": -0.6482144594192505,
+      "2025": -0.6482144594192505,
+      "1314": -0.6482144594192505,
+      "2368": -0.6482144594192505
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 3.8892,
+    "sent_score": -3.8892,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1389,
+        "src_w": 1.0,
+        "final": -0.4168
+      }
+    ]
+  },
+  {
+    "id": "795f36d0044bc2a73bb6b8c0c526b646975a6cf2",
+    "ts": "2025-11-14T19:55:11+00:00",
+    "title": "央行喊沒操縱匯率，市場反應超直接！他回顧新台幣暴升9%：台灣錢多但人民無感 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNM1U0eWVwbU5kUFAyNWtoUEtTMnc2bGpkS3pTWTNzZV9aUkNDZnZZY2loUmZMa25EMHVwUXBQeWlORkJtaG5Xcmo3U2tLeUxUYUxjd2N2T2l3TW9oM2ZsZmxvR1YyWjVmU1ZUMlhFWjA4SElQOWtqUndKWnJLSTlDVFF2aUxBM1dKM1lpUkd4aFM0ZHpVYnFSSWdGa2FqaTZKdlFLWWVKLVFJMjFFLW94SnlCRjBDVVAzZ1d5UVJwSU5qdUMzVzNfWFdYb09WMmlrc1FEV1NnY1JCaGx5ODFBY2JwSVdqOFFoSUFqWkoyeGZtY3V1ZkZzWmlDdkt1SC1PTFJsWWVIeExTNmI5Um1qR2JKX2NxMW1ETUVWZDVWLUx1cXAxRzN2VExVTlBhRnZnM2RqQ2hYSEM3WkhWZzVvNzN3R1Q3a0FvMWxoRXZKaWY4THdZZE9US0o3NTVYZkhSRkpFXzBTRDhlOWdQY1A2TDBtTmJtTmJveFRMUGJPc25fa2xaODJWX1FyY0w3d052SGRsUUlkdm02ajhrVmZfeUFlSE84TkcyTDYtQ0RJdzlNZklUVTRCaHRwNGdTZ0VGYTVmV0dPeERQVHZRMTBOMVdWUVE0WUJr?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "5a69fb30be4979f95826e0f8c12b5fabd2052529",
+    "ts": "2025-11-14T20:02:00+00:00",
+    "title": "安世風暴歐洲車廠供應鏈擬去中化- 兩岸 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhR2tEaWo3TFo4UHl6a1pIRVVwZU96UHBodkpHeDVFTjBYeWR6MTV6MXA4LTZsLWwtMEFFRUdHbEJieGdOR04zYU9nQlVrODk4dmt3U1pydVNDQzVGSWVJ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e35953b2d799f9534dcdcfa424ac2e197a0c15ed",
+    "ts": "2025-11-14T20:13:22+00:00",
+    "title": "《經濟學人》點出「台灣病」 程世嘉直言：央行若讓新台幣大幅升值壽險業曝險將蒸發 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNWWpLZ3JYdkJoMXZ0UzhzRlRnRU5hdnY0R0pmT0hoZ3JMRXhiSHpfcS0wZF9PMkowbWxtMjItYU50Yzk0X1R6S0ZQaURzMmtRQTE0MzFWeTV1Y0g3eVdZ0gFkQVVfeXFMT2NWM1RIV0Y4TkswT3A2OS1GaGxKYU8xc1p0SjZrdC1FUWMzM3RZZTdsbWZTNGFwYXVOUFNUZVYtaDdNcmpVNTZQVUNfaGdOLVBHdklDV2JVQkM4U25kNVpyaFhmbA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "e71dcd28b9265e86e8de4519a5c325ce39df64d9",
+    "ts": "2025-11-14T20:22:00+00:00",
+    "title": "蘋果震撼彈！董事會加速尋找庫克接班人 最快明年卸任 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbGI4a3l1Nzd1TEhzd2ZYMXA1eFdnX0lKZ2FuNjNERWY5SnNGcnZwYXVWczgwWlZ5N0k0Nnp3WmZ3V1piY3BpODZ4OXl1SWs?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "cd307ddda43a308254663a3b1c3968c850253e0e",
+    "ts": "2025-11-14T20:26:17+00:00",
+    "title": "那指逆勢收漲！美股續挫道瓊跌309點 台積電ADR反彈 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZktuQjhPOXJZRXhpUXdUM0hDRm5qV0RaS2RxU2pBMUIzNmduWGJyblNMaDMwSjR2dE9vcDMyUXNRa1JHNVhqY3EyZ0REWTRMYUdJekZxaWtyZ1NreUdPLUU4YVJjRDhUaUxWT0JkMHNKUnEwQ3VZV1VhdnpWTkdhN3ZqQkhqQjMtVTdKYW1tQjh1czRXVnRlWnJzYUlkbTE0QTF3OElLM3NlU1NzdlZSZHU0VERIZ1hvZklIWVJfWjRoU1E1aGhHbDRWWmhjZGk4d2tGTV9LQzM1Q012VXk4YlFMWk1zTWMxanRRczVDVWtWdUFpUmhPM0xGbG9OdDZ0OHpva2t1S2RmWUt2REoxbHZOTkhZWDM3ZmxteTlNNHROSVIyS3FTSk9VX2FzWE9Nb2ZCYzM5QzVGWlVULVlfQUR3?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.7854997515678406,
+      "1435": -0.7854997515678406,
+      "1341": -0.7854997515678406,
+      "2025": -0.7854997515678406,
+      "1314": -0.7854997515678406,
+      "2368": -0.7854997515678406
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.713,
+    "sent_score": -4.713,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2618,
+        "src_w": 1.0,
+        "final": -0.7855
+      }
+    ]
+  },
+  {
+    "id": "9071b2bdfce4a51c98d933df161c8b629b425b99",
+    "ts": "2025-11-14T20:54:00+00:00",
+    "title": "台積電連跌何時上車？杜金龍揭2大買點、這時挑戰3,600元！同步解析緯創操作心法- 證券 - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWa2N4dkhMUEhHR2sxby01d0RhazQ3VDhIblhDa2VEYU9RR2g4NUp5cWxWS2NXM2dwTG1pMER1clJtemNGNFdOaXlwdE9XM2NBd25RdXdxTjdXYUZkY1pV?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "ac38ed1f592ed100ba26595769cd766199c55c3b",
+    "ts": "2025-11-14T21:25:57+00:00",
+    "title": "巴菲特退休前大動作…1300億押「這檔科技股」？外媒爆幕後真相- 財經 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxQVYwaERET2NGT0RwV0gwUzdKNElPUXFUY1RuOG9GSmR3dTRNNENzODgzOFZRWmF3YzdqakdfSzN2SVhkNlhxYlVkTjMwblkzSS1SbGpVM0ljM0xTZElhamNKZnYtYjE0cXR4cEpR?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.3070250451564789,
+      "1435": -0.3070250451564789,
+      "1341": -0.3070250451564789,
+      "2025": -0.3070250451564789,
+      "1314": -0.3070250451564789,
+      "2368": -0.3070250451564789
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.842,
+    "sent_score": -1.842,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1023,
+        "src_w": 1.0,
+        "final": -0.307
+      }
+    ]
+  },
+  {
+    "id": "69622df20edbae0b2fc9758a7d6700a8c385361a",
+    "ts": "2025-11-14T21:26:46+00:00",
+    "title": "台美匯率聯合聲明 施俊吉稱一件好事：避免台資拋售美債 - 經濟日報",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fQmVOQkhGQ2hOdEQ0dVIzRnRMemYwU28yZ0VoQ0lUYVFHaXFhUUcwbmNaRXZ5N3diRjlvRlBOdmp6MEtPZEhrVWx6dFY2TXdHNG5pdjNZUkRCQdIBX0FVX3lxTE1JWEFRX21jNmh4ZVlVaG4xaDRUMng4UVdieHQwNl9vQlRISkplZ083dmV6NFNoQzh2T3pPYng1UVpqT3ZqeHpCaTdQN3BDLVY0Zl85M2lvMzRUbEFWVjlZ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "23cc819eb60acfe912538b205248719bcce4ea18",
+    "ts": "2025-11-14T21:36:15+00:00",
+    "title": "台股Q3財報太神！「6大賺翻猛將」狂噴獲利 「這伺服器大廠」EPS狠飆至82.92元創天價 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNeWJYcV8tTEJJTEZrR0k0bXM4RC1kYjBncXRWSWtvSHJ5S3lkVlF1bk8zdTlPR3cxUUdIWmYxc3FqU3kyNE1SYjNxNkM0bWlpSzZmcmoxbk54OGN1anNOUnB2S1N2R1JjNU1yUGl3dFNaY0QyMUlzWnJBakg5SGptaFVyc1JpeklUUFNTVVlzaml0MTNWNmIySm5lRFhwWGZCWUdWX1VtclJRYUd4dVhJaS1TRjZJZzVUMk9vVE84ZFZoNENnZE9qWC0ySnUtN1BpVVJjSFRmYzdIQmp0RndlQkNMeHhLTHdLSXdFY2lhT04zNzhmdFhWTTA2MDdUY0VseG0xTVRlQTl3V0xBSXJUNi1lVjk3TER6LUI5YUswc285RFJQcU50VDhyRFF6LTlBRDBRVGNTX2hoX2xyeno5di1SdkgtTDNCWC0yT1J2YzMtT3NtWDJ6UnRFTHNtVHBJaEI2MW9URVBjaFdSa3AxaW1iNVpqeVNPUGpvNk9OUWJVZXhfSVJIWElvWQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.6830154955387115,
+      "1435": -0.6830154955387115,
+      "1341": -0.6830154955387115,
+      "2025": -0.6830154955387115,
+      "1314": -0.6830154955387115,
+      "2368": -0.6830154955387115
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 4.098,
+    "sent_score": -4.098,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.2277,
+        "src_w": 1.0,
+        "final": -0.683
+      }
+    ]
+  },
+  {
+    "id": "ca5939d284b3e3b1ab89bcb4c3bf537e9dff35f7",
+    "ts": "2025-11-14T21:39:30+00:00",
+    "title": "金融時報：蘋果加速接班規劃 庫克最快明年卸任 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSmxrWFZlTWl3SUxQYnBCUVJURWhsa05TaEhlMTRDNV92bkpQT1k2bTFlT0VoUXNpM2lBRnRkMHhLSDFQVEpscGJoeUFNeVlMTk1fNVhZaVU3Uy1GQ2pWcnNvZ0J1b3Y4d2hQTGZJM29UemhLVkNjN0dxd01iOTV0MU5rUFE0Sl8wYTAzTkNRZk5IWWdjbGpGNGVjbmxDM2c2OW5GT1czRmtLY0hHdEJSTEFqOVYwVXlBMWRIX29zMVlKbmJYZ1VuaC1RUzBzM0dXVDBvRTE2LVRUaEluQkt1YTdBRTRCOXJUMHJ6bmRKLWNTcURBb0lGSkFuaWRLRzdzdXpySVdlM3NtZzJmVng2Y0diLTlZVHNJVkhuOVlRdlVwUUxERkJwY2NhbmdpMDdmX19xeEJvSjduZXZfcnRGdTJfUnJYdw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "cc4bfc2783992d2764f2383f61710dfffa2357f2",
+    "ts": "2025-11-14T21:43:52+00:00",
+    "title": "傳蘋果庫克最快明年卸任 呼聲最高接班人是「他」 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZHFmdkp3ZDJ0UmFmZzI1QkFRU0d2MGVzSzdkZGh1X1RQdnd3aW81TTZjZnJXWHJrLVBCb0xXS2tUaFZONzh3d2NYU1hnc1MwcjB2QW92MGppUnZJUmc00gFkQVVfeXFMTkxSZUQ0dEJITktnTnYzdzhDaDJzdzdVLTJCemV4bkszTldaT2ZCajk5SF9MbXhTSmlOTnViQkl2TE80aHl1YkpaWGxpZjZsVVpkM2tGZnUwRnZ5dG1QSEh5b29jeQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "995b24d925aab9423c6fcf1777b2916a8483decd",
+    "ts": "2025-11-14T21:58:43+00:00",
+    "title": "蘋果震撼彈！庫克最快明年卸任 可能接任人選曝光 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPTXN2R1JGRmU4X0diRUZjazZaTjlLdHJwQUZvbE12dFhRQlYtVmVnR2l6cW5ZSURUM3liRjl4ZmdWTF83bmw2bEE3NHhYNjBoRFZFRzRoQUxmY1NlbFd2RDRQM1Q4RndkTF80ZllFRVktUU9ranhLNTZELS1IWFhDRkY5djgwSW9HcGNYNEczS3ZQV0N5d2thQjdKU2ZvMEtGUUx4cXRvUnBQcDVXLVdnZDdGTkZnblgzVmhYUGpZQ3lsZWpTNndiUDJZbWFVVDVta0o2RFhydHRkMDItcFpfUkhhZHctczFhQm02QzFVN3JWdWw2MVpyTzdtM2NzNVNxN1FUOFhkcno4U3B6WHBhd08yWXlEdFFXU1FJdXhpRnpKNWxZNVo2TWwtLVF4SUlaMmRESEdJT3VXNlVDUldMQWRfVUV3b1VnZXNIQzMxYnNfQQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "34d96bb05e7238e29625d2a71c7657a82c460785",
+    "ts": "2025-11-14T22:11:12+00:00",
+    "title": "全球最大晶片製造商台積電 外媒曝投資人須了解三件要事 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11WklwVHlzTlNERGx6REFVZzhEaTVaeWIySlZySVhMNzdFUnZ0WERJQzJGY2pnaGlxZldIYXpicUoyR0tRZWdLN2tlVm9RWjJrMWxNaXQzcmx1NHVIZFNJ0gFkQVVfeXFMUDVhc0hfU09KdUkxYkJ5aFp0Zmc2aXR4cllVZmZXX2RrOFVpUDgxX2JmbmsyQkRibEJSQWhUVWRiOV82VWlxYk9tSHZlZk5GVWZ5dGlKeFVVWW5ZVzZNeWNZZGdvYQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "8ee9e39c30ed72eb87804eb4982fd378262895b8",
+    "ts": "2025-11-14T22:18:17+00:00",
+    "title": "買到要燒掉？Belkin三款產品曝火災危機 美台同步召回 - 中天新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CLVBMREFyVHNSa1dFaENLaGxHN3FnOWFCWmVicnZKa2pVci1QVGZaM2JueS1WTXVKNW8zbkdET2tTaDlJT2t6YlNFS2x0V25YTFdB?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "0db0a3305c60f63b5454a4467ffc5049375bde25",
+    "ts": "2025-11-14T22:20:30+00:00",
+    "title": "南亞科、華邦電、威剛、群聯...記憶體股人踩人 全村的希望來了！這檔DRAM股大摩列首選：目標價220→325 股價翻紅「華爾街最高」 - chinatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EdE0tSFNiM3lvamM3eDQ3VEpZNGdGN3Y5b0k3Q0k5R3FWNmFoSHFtZnI1MHNGVE55dzR4VExzeGp4OHl6RlZIQ0ZyclNkUm83Y2FaYUR0VjRlRWUySG9HVjFfQThwQ0ZHY1pnczlR?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -1.1411956250667572,
+      "1435": -1.1411956250667572,
+      "1341": -1.1411956250667572,
+      "2025": -1.1411956250667572,
+      "1314": -1.1411956250667572,
+      "2368": -1.1411956250667572
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 6.8466,
+    "sent_score": -6.8466,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1629,
+        "src_w": 1.0,
+        "final": -0.4887
+      }
+    ]
+  },
+  {
+    "id": "695d51f5f7fb6298f8276112f7681c75426345f9",
+    "ts": "2025-11-14T22:30:46+00:00",
+    "title": "記憶體狂潮襲來！「封測大廠」股價10天狂漲47% 外資砸13億元瘋搶2.7萬張 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNTmZ4UTh5bTZPbms1TVpkNjVWaldsZjdRYXBqTkdDX1duZ3M3T1RYVW80eGw2QXhlWC1weTczVU5VRXlyd2hpVlN4dHJhVkFfWkQ0akZMekpWTncwVk9XSUlxdDhjc1pzcEE1clB6cUpCVlB5emd1NmNDT1JmYXFsSGd5TzlFVG5nbWNKWVltdjNkeUtoU01KVVhVNjVZczZJeC0zS3lpd293Si1MUjhUeXVUekxhOFlzM2JrVjFNVG5lLW9hZjcya09VTFk5ZEFpYUZuV3Y1bWhCQ3FTYWN6ZkoxX0s2QzZObDRySjBucXVBQjY5UUM1MmJmdTVISF94dDR6aUM1WGd3d01fek80Qnkzb2doNW5ZaTBuMlVZa0NDc3FsMDllYXJEdXRsSTgxR215RU1zZmVwakg4dHJQLUlhRlY4SFNyRFRFX25zdHlDZDVhNXc1M2NnUm9oMVVGQUpLM0Nyb1BYaDFYMjcwcjZUR1lqN2lDamZyeEszWnJtem5XRWhvNkpqaXdvdzVKMkxqTzVPdw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.323880672454834,
+      "1435": -0.323880672454834,
+      "1341": -0.323880672454834,
+      "2025": -0.323880672454834,
+      "1314": -0.323880672454834,
+      "2368": -0.323880672454834
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 1.9434,
+    "sent_score": -1.9434,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.108,
+        "src_w": 1.0,
+        "final": -0.3239
+      }
+    ]
+  },
+  {
+    "id": "79886714eafa2b79e8006b5856b35fe1612a6862",
+    "ts": "2025-11-14T22:32:00+00:00",
+    "title": "三菱改款 Outlander 轉戰油電市場！全新七人座 SUV 有望成國產接班人 - 自由電子報汽車頻道",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yVmpoemxZMWhfM3JiUV96b3BtQVlOVFBmdEN3cDJEMU81TThhYnpUc0VTWFRBeHpOMkktejlCZ3dtcW5fY21VeWxfODPSAVJBVV95cUxOMjZlemhHb0hLNEhaRmJRRHBLVnFyNFBGU3NTWTRYUTlrVEhnUDZpT0xzRXh5R0pEWUVqU1BWNGpqY1hhVV9DS09fNFBvTFk1Mmdn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "f9cf14ad3b2a0766f7cf0a1cdf980a5839f82033",
+    "ts": "2025-11-14T22:36:31+00:00",
+    "title": "230美元買剪碎的襪子？網疑蘋果手機套設計不安全！專家：這樣定價很常見 - 奇摩新聞",
+    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOMDdrSF9rcTJFeENYZjlEMlpTbHRwTC1YSEVjMk1lLTdQWTdTUjJrLXo0eVFuWVZSN2ttX1IzbVNqblk0aGFKMENlUlYwRXMzOEthVTRVbzNYOTc4S1gyQk9CTEFHSWRDeFFVMXgzeVVmeHJMbmJURWx0OGxSQmxZaFByRFU2SWotdVVyMWNDeHJFS1EyNVpWa0pOTHR4MDhnbWxHLVpMbEhiQmQxLUZqRDYtZzh1XzFjdVFKQXdwLXNsZHYzc3ktb2I3R3NrOGsyU2VSSkJRaHpqT2xGeW1JdTc1d2FFcVlOYlljRnlCdDV3N2Exb0VsYlR3SzFYZzJBU2FqbVAySHlVMVBxaGgzWkZQck1oM21TSldCZ285Z3BuZnhzd1NNUVdrRjZvNlhtUndnM0E3aVk3Zkhrck9xRUctM2xneXg4NjdVLURQeEV1b2JDNWtSZ1FxdlFJbEtJcVdsbnBwZUliNDRwdzh4X1JBNC1kcmwwUGRxQUo3czNHN0VZNnVUUjRjdWdpTEtEVWQzdm5zTjRwalFtVVJSYUUwWG4tdVlqR1pIakxkckVvd3QwbUJr?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "23367229eeed2a4a73ca1962359b62b8a5bcd4ec",
+    "ts": "2025-11-14T22:52:16+00:00",
+    "title": "南亞科、華邦電、威剛、群聯...記憶體股人踩人全村的希望來了！這檔DRAM股大摩列首選：目標價220→325 股價翻紅「華爾街最高」 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMUhaMWlzTTZfRTNROFBaYld2QlplNzRiMmNWQTJaN3k3V0tYajNWRXp6Q05jZGVabUpNS3ctSGt2c3hYR3hEQmhiRm5LWGhJa3RDVmdXTHBRM29zWjJEM252dDM5bUw0VmppUTJDSWVwdDc4TnJvZ0RLRTVTeDVZc3g5cGJSaXFmLUJ6WDFONnpCSlNJb3JlR2VSaTVVaXVkN3VBbEtTM0pSTGVCejdfLTRTNVA3eFVjX0ZGZTN1RGY5MTBPTzcwM0lMX2xvbWdXcl9vWFNQZl9rajF0ZEhDLWtCbnRIemFfR0tUSjZ6NGNRSUdIMk1NQ1JwR2dXTlp2S2dYMzFnNUJCanpmMHRnZnlUYkZ5M3QyU2VTTmpaRmF3ME92RjFMejFzbDA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.9076325297355652,
+      "1435": -0.9076325297355652,
+      "1341": -0.9076325297355652,
+      "2025": -0.9076325297355652,
+      "1314": -0.9076325297355652,
+      "2368": -0.9076325297355652
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 5.4456,
+    "sent_score": -5.4456,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1403,
+        "src_w": 1.0,
+        "final": -0.421
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0771,
+        "src_w": 1.0,
+        "final": -0.2314
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.0851,
+        "src_w": 1.0,
+        "final": -0.2552
+      }
+    ]
+  },
+  {
+    "id": "1b19cb919333251f5afd46b26fae992a41825fe0",
+    "ts": "2025-11-14T22:54:18+00:00",
+    "title": "輝達財報19日登場！股價年初以來已大漲42% 華爾街「一致看多」2投行大抬目標價 - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNY2sxbzFhRVRFdUQ3YmJ0REJWWF9wUDgwRVB5cmlRdGtQVzZwZjBRcGlKLUxPSEV2OXFVbHk5OVVOeHRfcGdQTDhZRGpxRnpHMFZ2bmJkVVpQWHNwb0phaGI4M3Y5SmY2VFRwaG1XdXNzMkk1UmFGTHlzNWYxUDZORDhFRVR4SHpvQlZyaGtvM19NNDQ0UmlJTnJuUVpFc1IzdWVpVE5aM2hma3RTT3pmSExHVEQ2QVJ5dFozVVlZN05INWxDTkNxNkZYOWZva3Z6Q1l0WDB4VmwxM3BCbENiQ2lwdTJ2cmdOUnZtUTJOMU5UUzNtREVZNVBsNjFZbGR4WS1FSlpsVV9NTUdNNnJ1dkN1THhoMU5rU2MycU5uSG9LLVFRbE95SXFXMVNrRWlaRHpaUEozSzdKOHhrT2dxajNCNllObTVXV2dwcDdsMDJWLUlXT2hNRndBOHhON0g3ZFQtVEhoMGJndEpJUmloTkViQzZINlRybTdiaXFwcjlhZlBscGhkbi1Kay10U1J2QUNFS1dEbEZoMFBfNldkODNWblFfWUtIYjJiMFpaUURKRXZhNVVlTFEwWmlqeXg4ZVYw?oc=5",
+    "source_host": "news.google.com",
+    "codes": [
+      "2440",
+      "1435",
+      "1341",
+      "2025",
+      "1314",
+      "2368"
+    ],
+    "per_company": {
+      "2440": -0.4417246878147125,
+      "1435": -0.4417246878147125,
+      "1341": -0.4417246878147125,
+      "2025": -0.4417246878147125,
+      "1314": -0.4417246878147125,
+      "2368": -0.4417246878147125
+    },
+    "sent_pos": 0.0,
+    "sent_neg": 2.6502,
+    "sent_score": -2.6502,
+    "detail": [
+      {
+        "alias": "股",
+        "codes": [
+          "2440"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1435"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1341"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2025"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "1314"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      },
+      {
+        "alias": "股",
+        "codes": [
+          "2368"
+        ],
+        "method": "ml",
+        "ml_score": -0.1472,
+        "src_w": 1.0,
+        "final": -0.4417
+      }
+    ]
+  },
+  {
+    "id": "76d0ddf18afea8f51fe43ac52b1719790cf33dfc",
+    "ts": "2025-11-14T23:05:58+00:00",
+    "title": "特斯拉工程師出走潮擴大！馬斯克轉向 AI 夢想代價太高？ - TechNews 科技新報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qb3ZpVUlMbkYxeFJTOXhwMkkyaW9yT1ZHd0JObUFnM1h4N0h5bUdaUEtyeEhDQXI0SjJrcEZhLUtBVElvaktIVjFEMFVSVlNJWjdNeEw3WTdhV1pTTDN5dVZySy01UQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "49edce2de64528847fb682a5926e43011489ea29",
+    "ts": "2025-11-14T23:15:24+00:00",
+    "title": "Dragonfly 合夥人：當前是「史上最佛系熊市」放輕鬆點，比特幣回彈 9.6 萬美元 - 動區動趨",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXZFd2lDZmpFUndnZkZlcHlpNXNBTlZ0MnlEN2pXZEdrSXV0WUNBM3lFN1F5MER4R2FoT2tyVjNqck5RdjdjWFNCclhYNVN2aUpsMFZISTBlN2hfNlFBRG1uSkc0SXI2R09rSk5CM2loTm5xc05Cc21SeDdsc05WRzM1Q0VTeGwzdFFMeUNjbXh0a0hCMFUwTkNzZGFiT0NiT0hn?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "a874d4d2b9778a7ddd96fdce5e210f50820833a4",
+    "ts": "2025-11-14T23:30:00+00:00",
+    "title": "大廠行動電源恐「自燃傷人」！貝爾金急召回 台灣8.3萬台別再用 - TVBS新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zdWpXTG1sd2otbFBYeVU1VXMzNG12c0xsS01wY201ZDRHZmFlbnBPU3JyVTQtcXJSTnRnTXJyX2NRUDY1VE0zTDA3SlZVUQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "826b3f071aca7fad88a1d048bcf902c1ddfb3e0f",
+    "ts": "2025-11-14T23:30:06+00:00",
+    "title": "太慘了！中國逾13億人月收入不到2.1萬 占比超過9成 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSkZkTzNtRkZ1andqTGphcU1zemQwclhhN3lSQ19ScXYwbkd3dkJSOUxWVmhBQTFzSXA5b1pfU1NTZXRNVkJ3SndqeHlQT052cmtUSEg2NmhmRkdoV0dB0gFkQVVfeXFMTXdpaVZBRU1sa0s0eFNNN2hwYVV5QldVbzVCdTA1aTFxbktFNTBfRHJOMUpILTZteFZvRGxjMmM5cmd3TGlKMmN4NzJpbXZ1YjlhMFVVdzdaY255MTY5VHQ4NnBsRQ?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  },
+  {
+    "id": "3d351e57cb0d1ed452282280077a812819c4bf05",
+    "ts": "2025-11-14T23:57:00+00:00",
+    "title": "蘋果輸了！　Apple Watch「血氧監測」侵權恐賠194億 - ETtoday新聞雲",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBRVhVNERkUlZaUXhmWEVLUXl1MHF5QW85U3MxVUJXSkxlVkltWFRORUh1dXF5cl84WVNzc1VHN2VkLVRFVHJwZnQtNFo1RmY2a0VvVGtmSmd0QklhRkHSAWhBVV95cUxOSGIxeXh2UHVfSTdtWVNLVG9sZUNuZVJOSFRFTTlUcGVPVHFPRXFBNzVYYnlQTFgyR1h6U1FUS2R6eHVHb0J3WERuLWE4UHMzdGtoWjNYZWFuTmV2dG9rbFFnNEozYTlMMA?oc=5",
+    "source_host": "news.google.com",
+    "codes": [],
+    "per_company": {},
+    "sent_pos": 0.0,
+    "sent_neg": 0.0,
+    "sent_score": 0.0,
+    "detail": []
+  }
+]
