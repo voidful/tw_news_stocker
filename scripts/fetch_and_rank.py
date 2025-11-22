@@ -8,7 +8,7 @@ import json
 import time
 import hashlib
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
 import feedparser
@@ -38,6 +38,7 @@ NEWS_LOG = DATA_DIR / "news_log.jsonl"
 # NEWS_JSON = DOCS_DATA / "news_compact.json" # Deprecated
 NEWS_INDEX = DOCS_DATA / "news_index.json" # New index file
 DAILY_JSON = DOCS_DATA / "daily_sentiment.json"
+TODAY_JSON = DOCS_DATA / "today.json"
 
 # ------------------------------
 # Config & constants
@@ -605,6 +606,23 @@ def main():
         p = NEWS_DIR / f"{date_str}.json"
         write_json(p, items)
         available_dates.append(date_str)
+
+    # Write today.json (Taiwan date, newest to oldest)
+    tz_tw = timezone(timedelta(hours=8))
+    today_tw = datetime.now(tz_tw).date()
+    
+    today_items = []
+    for n in all_news:
+        try:
+            ts_str = n["ts"].replace("Z", "+00:00")
+            dt_utc = datetime.fromisoformat(ts_str)
+            dt_tw = dt_utc.astimezone(tz_tw)
+            if dt_tw.date() == today_tw:
+                today_items.append(n)
+        except Exception:
+            pass
+
+    write_json(TODAY_JSON, sorted(today_items, key=lambda x: x.get("ts", ""), reverse=True))
     
     # Write index file
     available_dates.sort(reverse=True) # Newest first
