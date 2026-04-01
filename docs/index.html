@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>簡化版｜情緒 × 股票 消息面</title>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <h2>市場情緒快照</h2>
+
+    <!-- 控制列 -->
+    <div class="ctrl">
+      <label>期間
+        <select id="range">
+          <option value="1">24小時</option>
+          <option value="3">3天</option>
+          <option value="7" selected>7天</option>
+          <option value="30">30天</option>
+        </select>
+      </label>
+
+      <label>來源頻數篩選
+        <select id="srcFreq">
+          <option value="all" selected>全部</option>
+          <option value="top5">Top 5 來源</option>
+          <option value="top10">Top 10 來源</option>
+        </select>
+      </label>
+
+      <label>可信度權重
+        <select id="trustMask">
+          <option value="off" selected>關閉</option>
+          <option value="pos">只套正向</option>
+          <option value="neg">只套負向</option>
+          <option value="both">正負皆套</option>
+        </select>
+      </label>
+
+      <label>每檔展開
+        <input id="perStockN" type="number" value="5" min="1" max="50" style="width:5rem"> 則新聞
+      </label>
+
+      <label style="flex-direction:row; align-items:center; gap:0.5rem; cursor:pointer;">
+        <input id="wlOnly" type="checkbox"> 
+        <span>只看觀察名單</span>
+      </label>
+
+      <input id="q" type="search" placeholder="搜尋代號或標題關鍵字…" style="flex:1 1 240px">
+
+      <button id="btnExport" class="secondary">匯出 CSV</button>
+    </div>
+
+    <p class="mono" style="color:var(--text-muted); margin-bottom:1.5rem;"><span id="asof"></span></p>
+
+    <div class="grid">
+      <article>
+        <h4 style="color:var(--pos-color);">Top 正向（前 15）</h4>
+        <ol id="toppos" class="list"></ol>
+      </article>
+      <article>
+        <h4 style="color:var(--neg-color);">Top 負向（前 15）</h4>
+        <ol id="topneg" class="list"></ol>
+      </article>
+    </div>
+
+    <h3>最新新聞（符合條件的全部）</h3>
+    <div id="news" class="list" style="max-height:none; overflow:visible;"></div>
+  </main>
+
+  <!-- Custom JS -->
+  <script src="js/script.js"></script>
+</body>
+</html>
