@@ -1,0 +1,69 @@
+{
+  "holding_days": 3,
+  "max_positions": 5,
+  "min_score": 1.0,
+  "tc_bps": 10,
+  "slippage_bps": 5,
+  "dd_stop": 0.2,
+  "cooloff_days": 10,
+  "risk_model": "invvol",
+  "kelly_coef": 0.5,
+  "vol_target": 0.15,
+  "lookback_days": 20,
+  "rebalance_freq_days": 1,
+  "max_drawdown_target": 0.2,
+  "liquidity_quantiles": [
+    0.2,
+    0.5,
+    0.8
+  ],
+  "liquidity_multipliers": [
+    1.4,
+    1.1,
+    0.9,
+    0.7
+  ],
+  "regime_threshold_daily_sigma": 0.02,
+  "regime_gamma": {
+    "low": 0.4,
+    "high": 0.7
+  },
+  "impact_alpha": 0.5,
+  "impact_segments": [
+    {
+      "p": 0.01,
+      "mult": 0.8
+    },
+    {
+      "p": 0.03,
+      "mult": 1.0
+    },
+    {
+      "p": 0.05,
+      "mult": 1.2
+    },
+    {
+      "p": 0.1,
+      "mult": 1.5
+    }
+  ],
+  "calib_freq_days": 20,
+  "hmm_trans": [
+    [
+      0.95,
+      0.05
+    ],
+    [
+      0.05,
+      0.95
+    ]
+  ],
+  "hmm_sigma_mu": {
+    "low": 0.012,
+    "high": 0.028
+  },
+  "hmm_sigma_std": {
+    "low": 0.006,
+    "high": 0.01
+  }
+}
