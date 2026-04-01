@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.env
+data/companies.json
+data/news_log.jsonl
+outputs/*.csv
+outputs/*.md
