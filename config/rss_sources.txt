@@ -1,0 +1,4 @@
+# 你可以放多個 RSS，每行一個。空行或以 # 開頭的行會被忽略。
+https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ?hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant
+# 備選示例（可自行開啟或新增）：
+# https://news.google.com/rss/search?q=%E5%8F%B0%E8%82%A1&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant
