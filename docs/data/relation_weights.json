@@ -1,0 +1,6 @@
+{
+  "subsidiary_to_parent": 1.0,
+  "parent_to_subsidiary": 0.8,
+  "customer_to_supplier": 0.5,
+  "supplier_to_customer": 0.3
+}
