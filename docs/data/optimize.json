@@ -1,0 +1,57 @@
+{
+  "hl_grid": [
+    3,
+    5,
+    7,
+    10,
+    14,
+    21,
+    30
+  ],
+  "host_grid": [
+    0.8,
+    1.0,
+    1.2,
+    1.4
+  ],
+  "train_months": 12,
+  "valid_months": 3,
+  "patience": 2,
+  "topN": 5,
+  "min_score": 1.0,
+  "k_folds": 3,
+  "early_rel_delta": 0.01,
+  "use_group_weights": true,
+  "l1_lambda": 0.05,
+  "grid_N": [
+    3,
+    5,
+    10
+  ],
+  "grid_min_score": [
+    0.5,
+    1.0,
+    1.5
+  ],
+  "grid_risk_model": [
+    "equal",
+    "invvol"
+  ],
+  "lambda_grid": [
+    0.0,
+    0.02,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "k_repeats": 2,
+  "inner_k": 3,
+  "one_se_rule": true,
+  "robust_weights": {
+    "sharpe": 0.5,
+    "maxdd": 0.3,
+    "total_ret": 0.2
+  },
+  "robust_weight_method": "entropy",
+  "bma_tau": 1.0
+}
